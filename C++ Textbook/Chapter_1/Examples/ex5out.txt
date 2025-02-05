@@ -1,0 +1,52 @@
+-----
+Student Name: Andrew Miller
+Test Scores:  87.50  89.00  65.75  37.00  98.50 
+Average Score:  75.55
+Grade is C
+-----
+Student Name: Bethany Smith
+Test Scores:  92.00  78.25  88.50  67.75  90.00 
+Average Score:  83.30
+Grade is B
+-----
+Student Name: Charles Brown
+Test Scores:  55.50  67.25  62.00  70.75  58.00 
+Average Score:  62.70
+Grade is D
+-----
+Student Name: Diana Prince
+Test Scores: 100.00  95.50  93.25  98.00  97.75 
+Average Score:  96.90
+Grade is A
+-----
+Student Name: Elliot Moore
+Test Scores:  88.00  85.50  78.75  81.00  79.25 
+Average Score:  82.50
+Grade is B
+-----
+Student Name: Fiona Gray
+Test Scores:  70.00  65.50  72.25  68.75  71.00 
+Average Score:  69.50
+Grade is D
+-----
+Student Name: George White
+Test Scores:  45.25  50.50  55.75  48.25  49.00 
+Average Score:  49.75
+Grade is F
+-----
+Student Name: Helen Green
+Test Scores:  82.50  79.25  88.75  84.50  86.00 
+Average Score:  84.20
+Grade is B
+-----
+Student Name: Ian Black
+Test Scores:  93.50  91.75  90.25  95.00  94.50 
+Average Score:  93.00
+Grade is A
+-----
+Student Name: Jane Doe
+Test Scores:  77.00  74.50  70.75  72.50  75.00 
+Average Score:  73.95
+Grade is C
+-----
+Class Average: 77.14

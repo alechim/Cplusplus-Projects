@@ -1,0 +1,27 @@
+# Chapter 2 Exercises
+- **Question 1**: Simple Output Message
+- **Question 2**: C++ Display Message
+- **Question 3**: Simple Integer Average Program
+- **Question 4**: Simple Double Average Program
+- **Question 5**: Calculate Area and Circumference of a Circle
+- **Question 6**: Display a Message based on Inputs
+- **Question 7**: Rounds the passed Double Value
+- **Question 8**: Salary Calculator
+- **Question 9**: Average of 5 Test Scores
+- **Question 10**: Rounded Sum of 5 Double Values
+- **Question 11**: Miles Driven without Refueling
+- **Question 12**: Seconds to Hours, Minutes, and Seconds
+- **Question 13**: Final Price of a Product
+- **Question 14**: Hard Drive Space Calculator
+- **Question 16**: Milk Storage, Cost, and Profit
+- **Question 18**: Summer Job Income
+- **Question 19**: Change to Pennies (Input)
+- **Question 20**: Car Commission and Selling Price
+- **Question 21**: Calculate Force
+- **Question 22**: Number of Bags to Store Rice
+- **Question 23**: Stock Calculator
+- **Question 24**: Length of a Wire (Rectangle)
+- **Question 25**: Length of a Wire (Circle)
+- **Question 26**: Paint Needed for a House
+- **Question 28**: Distribute Snacks
+- **Question 29**: Concrete Needed for a Patio
