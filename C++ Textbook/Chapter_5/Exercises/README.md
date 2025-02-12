@@ -1,0 +1,21 @@
+# Chapter 5 Exercises
+- **Question 1**: Sum of Individual Digits
+- **Question 2**: Approximate PI Calculation
+- **Question 3**: Refactored Telephone Digits
+- **Question 4**: Message to Phone Number
+- **Question 5**: Multiples of 3 and 5
+- **Question 6**: Determine Prime Number (Input)
+- **Question 7**: Determine Divisibility by 11
+- **Question 8**: Integer Manipulation
+- **Question 11**: Refactored Fibonacci Numbers
+- **Question 12**: Population Growth of Two Towns
+- **Question 13**: Collatz Conjecture Generator
+- **Question 16**: Number Guessing Game
+- **Question 20**: Loan Calculator
+- **Question 27**: Conical Paper Cup Problem
+- **Question 28**: Apartment Problem
+- **Question 29**: Factorial Number
+- **Question 30**: Approximate the value of e (Limits)
+- **Question 31**: Approximate the value of e (1st Formula)
+- **Question 32**: Approximate the value of e (2nd Formula)
+- **Question 33**: Preparing Cooking Times

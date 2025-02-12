@@ -1,0 +1,1 @@
+static_cast<double>(i) + static_cast<double>(i)
