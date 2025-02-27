@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.8)  18 FEB 2025 10:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.8)  19 FEB 2025 12:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Programming/Personal/GitHub/C++/C++ Textbook/Chapter_5/Exercises/q27/calc.tex"
-(d:/Programming/Personal/GitHub/C++/C++ Textbook/Chapter_5/Exercises/q27/calc.tex
+**"d:/Programming/Personal/GitHub/C++/C++ Textbook/Chapter_6/Exercises/q29/calc.tex"
+(d:/Programming/Personal/GitHub/C++/C++ Textbook/Chapter_6/Exercises/q29/calc.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (D:\Programs\MiKTeX\tex/latex/base\article.cls
@@ -372,68 +372,37 @@ Package hyperref Info: Link coloring ON on input line 19.
 \@outlinefile=\write3
 \openout3 = `calc.out'.
 
-<Figure1.pdf, id=43, 2595.63133pt x 1040.26239pt>
+<Figure1.pdf, id=27, 1870.9378pt x 594.12161pt>
 File: Figure1.pdf Graphic file (type pdf)
 <use Figure1.pdf>
 Package pdftex.def Info: Figure1.pdf  used on input line 27.
-(pdftex.def)             Requested size: 266.14978pt x 106.65138pt.
+(pdftex.def)             Requested size: 266.14978pt x 84.5091pt.
 
 
 [1
 
-{C:/Users/alecv/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Figure1.pdf>]
+{C:/Users/alecv/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Figure1.pdf, page is rotated 270 degrees>]
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 75.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 75.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--78
-
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 88.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 104.
-
-
-
-[2]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 123.
-
-
-
-[3]
-
-[4] (calc.aux)
+[2] (calc.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `calc.out' has not changed.
-(rerunfilecheck)             Checksum: C995DDBB9B0BE03B48F1AE156D200A6B;1508.
+(rerunfilecheck)             Checksum: DD150636E47C197250FD7AB772957B18;826.
  ) 
 Here is how much of TeX's memory you used:
- 12152 strings out of 473530
- 187694 string characters out of 5727301
- 625840 words of memory out of 5000000
- 35218 multiletter control sequences out of 15000+600000
- 564415 words of font info for 56 fonts, out of 8000000 for 9000
+ 12140 strings out of 473530
+ 187487 string characters out of 5727301
+ 616905 words of memory out of 5000000
+ 35212 multiletter control sequences out of 15000+600000
+ 564108 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,382b,465s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\alecv\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on calc.pdf (4 pages, 2989865 bytes).
+ 75i,8n,79p,484b,464s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\alecv\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on calc.pdf (2 pages, 1442487 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 119 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 54 words of extra memory for PDF output out of 10000 (max. 10000000)
 

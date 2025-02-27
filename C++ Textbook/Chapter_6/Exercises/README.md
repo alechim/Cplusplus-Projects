@@ -1,0 +1,29 @@
+# Chapter 6 Exercises
+- **Question 1**: Refactored Palindrome & Make File
+- **Question 3**: Detect # of Vowels
+- **Question 4**: Sphere Surface Area and Volume
+- **Question 5.1**: Refactored & Make File for 5-11 
+- **Question 5.2**: Refactored & Make File for 5-14
+- **Question 7**: Prime Numbers and Twin Primes in Range
+- **Question 8**: Menu Driven Shape Calculations
+- **Question 9**: Reverse Digit
+- **Question 11**: Circle Calculation based on two points
+- **Question 12**: Calculate Mean and Standard Deviation
+- **Question 13**: Loan Periodic Payment
+- **Question 14**: Account Consulting Bill
+- **Question 15**: Calculate Windchill Factor
+- **Question 16**: Function Practice 1
+- **Question 17**: Function Practice 2
+- **Question 18**: Employee Clock In and Out
+- **Question 21**: Date to Day Number of the Year
+- **Question 23**: Count lowercase vowels & Makefile
+- **Question 24**: Refactored Classifying Numbers & Makefile
+- **Question 25**: Menu-Driven Fitness Center Membership
+- **Question 26**: Calculate Inflation Rates
+- **Question 27**: Menu Driven Time Conversion
+- **Question 28**: Menu Driven Coffee Shop Purchase
+- **Question 29**: Maximum Volume of Cardboard Box
+- **Question 30**: Power Station Problem
+- **Question 31**: Pipe Problem
+- **Question 32**: Greatest Common Divisor 
+- **Question 33**: Refactored 6-16
