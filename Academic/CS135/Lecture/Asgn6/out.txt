@@ -1,0 +1,2366 @@
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1000     Admiral      Ackbar        administrative  XA-540  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          0
+Administrative:    1
+
+
+Total Droids Required     1
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+2000     Admiral      Chiraneau     administrative  XA-540  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          0
+Administrative:    2
+
+
+Total Droids Required     2
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+3000     Admiral      Motti         administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          0
+Administrative:    3
+
+
+Total Droids Required     3
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+4000     Admiral      Piett         administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          0
+Administrative:    4
+
+
+Total Droids Required     4
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+5000     Admiral      Sarn          administrative  XA-540  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          0
+Administrative:    5
+
+
+Total Droids Required     5
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+6000     Saul         Karath        administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          0
+Administrative:    6
+
+
+Total Droids Required     6
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+7000     Agrippa      Aldrete       protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          1
+Administrative:    6
+
+
+Total Droids Required     7
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+8000     Anakin       Skywalker     protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          2
+Administrative:    6
+
+
+Total Droids Required     8
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+9000     Ariq         Joanson       protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          3
+Administrative:    6
+
+
+Total Droids Required     9
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1000     Arleil       Schous        administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          3
+Administrative:    7
+
+
+Total Droids Required    10
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1100     Attichitcuk  noLastName    maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       1
+Protocol:          3
+Administrative:    7
+
+
+Total Droids Required    11
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1200     Aurra        Sing          maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       2
+Protocol:          3
+Administrative:    7
+
+
+Total Droids Required    12
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1300     Ayy          Vida          maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       3
+Protocol:          3
+Administrative:    7
+
+
+Total Droids Required    13
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1400     Bairdon      Jace          astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         1
+Maintenance:       3
+Protocol:          3
+Administrative:    7
+
+
+Total Droids Required    14
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1500     Baniss       Keeg          maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         1
+Maintenance:       4
+Protocol:          3
+Administrative:    7
+
+
+Total Droids Required    15
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1600     Barada       noLastName    astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         2
+Maintenance:       4
+Protocol:          3
+Administrative:    7
+
+
+Total Droids Required    16
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1700     Bene         noLastName    astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         3
+Maintenance:       4
+Protocol:          3
+Administrative:    7
+
+
+Total Droids Required    17
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1800     Bib          Fortuna       protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         3
+Maintenance:       4
+Protocol:          4
+Administrative:    7
+
+
+Total Droids Required    18
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1900     Biggs        Darklighter   astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         4
+Maintenance:       4
+Protocol:          4
+Administrative:    7
+
+
+Total Droids Required    19
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+2000     Boba         Fett          administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         4
+Maintenance:       4
+Protocol:          4
+Administrative:    8
+
+
+Total Droids Required    20
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+2100     Boelo        noLastName    astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         5
+Maintenance:       4
+Protocol:          4
+Administrative:    8
+
+
+Total Droids Required    21
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+2200     Bom          Vimdim        administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         5
+Maintenance:       4
+Protocol:          4
+Administrative:    9
+
+
+Total Droids Required    22
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+2300     Borsk        Fey'lya       protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         5
+Maintenance:       4
+Protocol:          5
+Administrative:    9
+
+
+Total Droids Required    23
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+2400     BoShek       noLastName    maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         5
+Maintenance:       5
+Protocol:          5
+Administrative:    9
+
+
+Total Droids Required    24
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+2500     Boss         Nass          administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         5
+Maintenance:       5
+Protocol:          5
+Administrative:   10
+
+
+Total Droids Required    25
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+2600     Bossk        noLastName    protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         5
+Maintenance:       5
+Protocol:          6
+Administrative:   10
+
+
+Total Droids Required    26
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+2700     Boushh       noLastName    maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         5
+Maintenance:       6
+Protocol:          6
+Administrative:   10
+
+
+Total Droids Required    27
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+2800     Brainiac     noLastName    administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         5
+Maintenance:       6
+Protocol:          6
+Administrative:   11
+
+
+Total Droids Required    28
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+2900     Senni        Tonnika       protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         5
+Maintenance:       6
+Protocol:          7
+Administrative:   11
+
+
+Total Droids Required    29
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+3000     Camie        Loneozner     astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         6
+Maintenance:       6
+Protocol:          7
+Administrative:   11
+
+
+Total Droids Required    30
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+3100     Canderous    Ordo          astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       6
+Protocol:          7
+Administrative:   11
+
+
+Total Droids Required    31
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+3200     Captain      Antilles      administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       6
+Protocol:          7
+Administrative:   12
+
+
+Total Droids Required    32
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+3300     Captain      Colton        administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       6
+Protocol:          7
+Administrative:   13
+
+
+Total Droids Required    33
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+3400     Captain      Godherdt      administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       6
+Protocol:          7
+Administrative:   14
+
+
+Total Droids Required    34
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+3500     Captain      Jai'Galaar    administrative  XA-540  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       6
+Protocol:          7
+Administrative:   15
+
+
+Total Droids Required    35
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+3600     Captain      Khurgee       administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       6
+Protocol:          7
+Administrative:   16
+
+
+Total Droids Required    36
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+3700     Captain      Lennox        administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       6
+Protocol:          7
+Administrative:   17
+
+
+Total Droids Required    37
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+3800     Captain      Needa         administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       6
+Protocol:          7
+Administrative:   18
+
+
+Total Droids Required    38
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+3900     Captain      Panaka        administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       6
+Protocol:          7
+Administrative:   19
+
+
+Total Droids Required    39
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+4000     Captain      Sarkli        administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       6
+Protocol:          7
+Administrative:   20
+
+
+Total Droids Required    40
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+4100     Captain      Tarpals       administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       6
+Protocol:          7
+Administrative:   21
+
+
+Total Droids Required    41
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+4200     Captain      Verrack       administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       6
+Protocol:          7
+Administrative:   22
+
+
+Total Droids Required    42
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+4300     Captain      Yorr          administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       6
+Protocol:          7
+Administrative:   23
+
+
+Total Droids Required    43
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+4400     Captain      Yutani        administrative  XA-540  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       6
+Protocol:          7
+Administrative:   24
+
+
+Total Droids Required    44
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+4500     Carth        Onassi        maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       7
+Protocol:          7
+Administrative:   24
+
+
+Total Droids Required    45
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+4600     Cellheim     Anujo         administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       7
+Protocol:          7
+Administrative:   25
+
+
+Total Droids Required    46
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+4700     Chewbacca    noLastName    maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         7
+Maintenance:       8
+Protocol:          7
+Administrative:   25
+
+
+Total Droids Required    47
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+4800     Cin          Drallig       astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         8
+Maintenance:       8
+Protocol:          7
+Administrative:   25
+
+
+Total Droids Required    48
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+4900     Coleman      Kcaj          maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         8
+Maintenance:       9
+Protocol:          7
+Administrative:   25
+
+
+Total Droids Required    49
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+5000     Feyn         Gospic        administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         8
+Maintenance:       9
+Protocol:          7
+Administrative:   26
+
+
+Total Droids Required    50
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+5100     Wullf        Yularen       astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          7
+Administrative:   26
+
+
+Total Droids Required    51
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+5200     Commander    Appo          administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          7
+Administrative:   27
+
+
+Total Droids Required    52
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+5300     Commander    Bacara        administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          7
+Administrative:   28
+
+
+Total Droids Required    53
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+5400     Commander    Bly           administrative  XA-540  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          7
+Administrative:   29
+
+
+Total Droids Required    54
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+5500     Commander    Cody          administrative  XA-540  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          7
+Administrative:   30
+
+
+Total Droids Required    55
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+5600     Commander    Jir           administrative  XA-540  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          7
+Administrative:   31
+
+
+Total Droids Required    56
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+5700     Commander    Deviss        administrative  XA-540  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          7
+Administrative:   32
+
+
+Total Droids Required    57
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+5800     Commander    Faie          administrative  XA-540  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          7
+Administrative:   33
+
+
+Total Droids Required    58
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+5900     Commander    Gree          administrative  XA-540  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          7
+Administrative:   34
+
+
+Total Droids Required    59
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+6000     Commander    Keller        administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          7
+Administrative:   35
+
+
+Total Droids Required    60
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+6100     Commander    Neyo          administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          7
+Administrative:   36
+
+
+Total Droids Required    61
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+6200     Commander    Praji         administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          7
+Administrative:   37
+
+
+Total Droids Required    62
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+6300     Commander    Thire         administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          7
+Administrative:   38
+
+
+Total Droids Required    63
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+6400     Corporal     Derdram       protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          8
+Administrative:   38
+
+
+Total Droids Required    64
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+6500     Dooku        Tyranus       administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          8
+Administrative:   39
+
+
+Total Droids Required    65
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+6600     Dack         Ralter        protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          9
+Administrative:   39
+
+
+Total Droids Required    66
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+6700     Dansra       Beezer        administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          9
+Administrative:   40
+
+
+Total Droids Required    67
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+6800     Darth        Bandon        administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          9
+Administrative:   41
+
+
+Total Droids Required    68
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+6900     Darth        Malak         administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          9
+Administrative:   42
+
+
+Total Droids Required    69
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+7000     Darth        Maul          administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          9
+Administrative:   43
+
+
+Total Droids Required    70
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+7100     Darth        Vader         administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:       9
+Protocol:          9
+Administrative:   44
+
+
+Total Droids Required    71
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+7200     Dathcha      noLastName    maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:      10
+Protocol:          9
+Administrative:   44
+
+
+Total Droids Required    72
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+7300     Daultay      Dofine        protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:      10
+Protocol:         10
+Administrative:   44
+
+
+Total Droids Required    73
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+7400     Del          Goren         maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:      11
+Protocol:         10
+Administrative:   44
+
+
+Total Droids Required    74
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+7500     Delva        Racine        protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:      11
+Protocol:         11
+Administrative:   44
+
+
+Total Droids Required    75
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+7600     Dengar       noLastName    protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:      11
+Protocol:         12
+Administrative:   44
+
+
+Total Droids Required    76
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+7700     Derek        Klivian       protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:      11
+Protocol:         13
+Administrative:   44
+
+
+Total Droids Required    77
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+7800     Diskret      Stahn         maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:      12
+Protocol:         13
+Administrative:   44
+
+
+Total Droids Required    78
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+7900     Doallyn      noLastName    maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:      13
+Protocol:         13
+Administrative:   44
+
+
+Total Droids Required    79
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+8000     Dr.          Evazan        administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:      13
+Protocol:         13
+Administrative:   45
+
+
+Total Droids Required    80
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+8100     Duke         Teta          maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         9
+Maintenance:      14
+Protocol:         13
+Administrative:   45
+
+
+Total Droids Required    81
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+8200     Elyhek       Rue           astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        10
+Maintenance:      14
+Protocol:         13
+Administrative:   45
+
+
+Total Droids Required    82
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+8300     Emperor      Palpatine     administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        10
+Maintenance:      14
+Protocol:         13
+Administrative:   46
+
+
+Total Droids Required    83
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+8400     Darth        Sidious       administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        10
+Maintenance:      14
+Protocol:         13
+Administrative:   47
+
+
+Total Droids Required    84
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+8500     Cariso       Smadis        administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        10
+Maintenance:      14
+Protocol:         13
+Administrative:   48
+
+
+Total Droids Required    85
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+8600     Chad         Hilse         administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        10
+Maintenance:      14
+Protocol:         13
+Administrative:   49
+
+
+Total Droids Required    86
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+8700     Fi-Ek        Sirch         protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        10
+Maintenance:      14
+Protocol:         14
+Administrative:   49
+
+
+Total Droids Required    87
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+8800     Figrin       Da'n          administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        10
+Maintenance:      14
+Protocol:         14
+Administrative:   50
+
+
+Total Droids Required    88
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+8900     Gailid       noLastName    astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        11
+Maintenance:      14
+Protocol:         14
+Administrative:   50
+
+
+Total Droids Required    89
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+9000     Garindan     noLastName    administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        11
+Maintenance:      14
+Protocol:         14
+Administrative:   51
+
+
+Total Droids Required    90
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+9100     Carlist      Rieekan       administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        11
+Maintenance:      14
+Protocol:         14
+Administrative:   52
+
+
+Total Droids Required    91
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+9200     Crix         Madine        astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        12
+Maintenance:      14
+Protocol:         14
+Administrative:   52
+
+
+Total Droids Required    92
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+9300     General      Grievous      protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        12
+Maintenance:      14
+Protocol:         15
+Administrative:   52
+
+
+Total Droids Required    93
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+9400     Dec          Dodonna       astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        13
+Maintenance:      14
+Protocol:         15
+Administrative:   52
+
+
+Total Droids Required    94
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+9500     Maximilian   Veers         maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        13
+Maintenance:      15
+Protocol:         15
+Administrative:   52
+
+
+Total Droids Required    95
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+9600     Pharl        McQuarrie     protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        13
+Maintenance:      15
+Protocol:         16
+Administrative:   52
+
+
+Total Droids Required    96
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+9700     Graf         Zapalo        protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        13
+Maintenance:      15
+Protocol:         17
+Administrative:   52
+
+
+Total Droids Required    97
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+9800     Grand        Admiral       protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        13
+Maintenance:      15
+Protocol:         18
+Administrative:   52
+
+
+Total Droids Required    98
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+9900     Moff         Tarkin        maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        13
+Maintenance:      16
+Protocol:         18
+Administrative:   52
+
+
+Total Droids Required    99
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1000     Greedo       noLastName    maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        13
+Maintenance:      17
+Protocol:         18
+Administrative:   52
+
+
+Total Droids Required   100
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1010     Han          Solo          maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        13
+Maintenance:      18
+Protocol:         18
+Administrative:   52
+
+
+Total Droids Required   101
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1020     Hat          Lo            astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        14
+Maintenance:      18
+Protocol:         18
+Administrative:   52
+
+
+Total Droids Required   102
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1030     Hela         Brandes       astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      18
+Protocol:         18
+Administrative:   52
+
+
+Total Droids Required   103
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1040     Hol          Okand         protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      18
+Protocol:         19
+Administrative:   52
+
+
+Total Droids Required   104
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1050     Hugo         Eckener       administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      18
+Protocol:         19
+Administrative:   53
+
+
+Total Droids Required   105
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1060     Jabba        Hutt          protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      18
+Protocol:         20
+Administrative:   53
+
+
+Total Droids Required   106
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1070     Jango        Fett          maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      19
+Protocol:         20
+Administrative:   53
+
+
+Total Droids Required   107
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1080     JarJae       Binks         protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      19
+Protocol:         21
+Administrative:   53
+
+
+Total Droids Required   108
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1090     Jek          Porkins       maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      20
+Protocol:         21
+Administrative:   53
+
+
+Total Droids Required   109
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1100     John         Branon        protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      20
+Protocol:         22
+Administrative:   53
+
+
+Total Droids Required   110
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1110     Jon          Vander        maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      21
+Protocol:         22
+Administrative:   53
+
+
+Total Droids Required   111
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1120     J'oopi       She           maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      22
+Protocol:         22
+Administrative:   53
+
+
+Total Droids Required   112
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1130     Juhani       noLastName    administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      22
+Protocol:         22
+Administrative:   54
+
+
+Total Droids Required   113
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1140     Kabe         noLastName    administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      22
+Protocol:         22
+Administrative:   55
+
+
+Total Droids Required   114
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1150     Kai          Hudorra       protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      22
+Protocol:         23
+Administrative:   55
+
+
+Total Droids Required   115
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1160     Karoly       D'ulin        maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      23
+Protocol:         23
+Administrative:   55
+
+
+Total Droids Required   116
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1170     Khaat        Qiyn          maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      24
+Protocol:         23
+Administrative:   55
+
+
+Total Droids Required   117
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1180     Knol         Ven'nari      maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      25
+Protocol:         23
+Administrative:   55
+
+
+Total Droids Required   118
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1190     Koth         Melan         maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      26
+Protocol:         23
+Administrative:   55
+
+
+Total Droids Required   119
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1200     Koyi         Mateil        administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      26
+Protocol:         23
+Administrative:   56
+
+
+Total Droids Required   120
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1210     Kylo         Ren           protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      26
+Protocol:         24
+Administrative:   56
+
+
+Total Droids Required   121
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1220     Labria       noLastName    protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      26
+Protocol:         25
+Administrative:   56
+
+
+Total Droids Required   122
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1230     Lak          Sivrak        maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      27
+Protocol:         25
+Administrative:   56
+
+
+Total Droids Required   123
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1240     Lando        Calrissian    administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        15
+Maintenance:      27
+Protocol:         25
+Administrative:   57
+
+
+Total Droids Required   124
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1250     Lieutenant   Arnet         astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        16
+Maintenance:      27
+Protocol:         25
+Administrative:   57
+
+
+Total Droids Required   125
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1260     Lieutenant   Lepira        astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        17
+Maintenance:      27
+Protocol:         25
+Administrative:   57
+
+
+Total Droids Required   126
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1270     Pello        Scrambas      astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        18
+Maintenance:      27
+Protocol:         25
+Administrative:   57
+
+
+Total Droids Required   127
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1280     Shann        Childsen      protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        18
+Maintenance:      27
+Protocol:         26
+Administrative:   57
+
+
+Total Droids Required   128
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1290     Lobot        noLastName    astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        19
+Maintenance:      27
+Protocol:         26
+Administrative:   57
+
+
+Total Droids Required   129
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1300     Lufta        Shif          administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        19
+Maintenance:      27
+Protocol:         26
+Administrative:   58
+
+
+Total Droids Required   130
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1310     Luke         Skywalker     protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        19
+Maintenance:      27
+Protocol:         27
+Administrative:   58
+
+
+Total Droids Required   131
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1320     Lumas        Etima         protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        19
+Maintenance:      27
+Protocol:         28
+Administrative:   58
+
+
+Total Droids Required   132
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1330     Lumpawarrump Lunae         maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        19
+Maintenance:      28
+Protocol:         28
+Administrative:   58
+
+
+Total Droids Required   133
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1340     Minx         Mace          administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        19
+Maintenance:      28
+Protocol:         28
+Administrative:   59
+
+
+Total Droids Required   134
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1350     Windu        Major         protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        19
+Maintenance:      28
+Protocol:         29
+Administrative:   59
+
+
+Total Droids Required   135
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1360     Panno        Mallatobuck   protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        19
+Maintenance:      28
+Protocol:         30
+Administrative:   59
+
+
+Total Droids Required   136
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1370     Mara         Jade          astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        20
+Maintenance:      28
+Protocol:         30
+Administrative:   59
+
+
+Total Droids Required   137
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1380     Meeko        Ghintee       astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        21
+Maintenance:      28
+Protocol:         30
+Administrative:   59
+
+
+Total Droids Required   138
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1390     Mission      Vao           astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        22
+Maintenance:      28
+Protocol:         30
+Administrative:   59
+
+
+Total Droids Required   139
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1400     Momaw        Nadon         maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        22
+Maintenance:      29
+Protocol:         30
+Administrative:   59
+
+
+Total Droids Required   140
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1410     Mon          Mothma        maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        22
+Maintenance:      30
+Protocol:         30
+Administrative:   59
+
+
+Total Droids Required   141
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1420     Montross     noLastName    astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        23
+Maintenance:      30
+Protocol:         30
+Administrative:   59
+
+
+Total Droids Required   142
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1430     Motee        noLastName    maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        23
+Maintenance:      31
+Protocol:         30
+Administrative:   59
+
+
+Total Droids Required   143
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1440     Muftak       noLastName    astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        24
+Maintenance:      31
+Protocol:         30
+Administrative:   59
+
+
+Total Droids Required   144
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1450     Nien         Nunb          maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        24
+Maintenance:      32
+Protocol:         30
+Administrative:   59
+
+
+Total Droids Required   145
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1460     Nute         Gunray        maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        24
+Maintenance:      33
+Protocol:         30
+Administrative:   59
+
+
+Total Droids Required   146
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1470     Obi-Wan      Kenobi        maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        24
+Maintenance:      34
+Protocol:         30
+Administrative:   59
+
+
+Total Droids Required   147
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1480     Owen         Lars          protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        24
+Maintenance:      34
+Protocol:         31
+Administrative:   59
+
+
+Total Droids Required   148
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1490     Padme        Amidala       maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        24
+Maintenance:      35
+Protocol:         31
+Administrative:   59
+
+
+Total Droids Required   149
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1500     Plo          Koon          administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        24
+Maintenance:      35
+Protocol:         31
+Administrative:   60
+
+
+Total Droids Required   150
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1510     Ponda        Baba          protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        24
+Maintenance:      35
+Protocol:         32
+Administrative:   60
+
+
+Total Droids Required   151
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1520     Leia         Organa        protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        24
+Maintenance:      35
+Protocol:         33
+Administrative:   60
+
+
+Total Droids Required   152
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1530     Queen        Apailana      administrative  a3D-4X  
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        24
+Maintenance:      35
+Protocol:         33
+Administrative:   61
+
+
+Total Droids Required   153
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1540     Qui-Gon      Jinn          protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        24
+Maintenance:      35
+Protocol:         34
+Administrative:   61
+
+
+Total Droids Required   154
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1550     Rune         Haako         maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        24
+Maintenance:      36
+Protocol:         34
+Administrative:   61
+
+
+Total Droids Required   155
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1560     Ryle         Torsyn        administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        24
+Maintenance:      36
+Protocol:         34
+Administrative:   62
+
+
+Total Droids Required   156
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1570     Salacious    Crumb         administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        24
+Maintenance:      36
+Protocol:         34
+Administrative:   63
+
+
+Total Droids Required   157
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1580     Sarrissa     Jeng          astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        25
+Maintenance:      36
+Protocol:         34
+Administrative:   63
+
+
+Total Droids Required   158
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1590     Sayar        Dun'La        protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        25
+Maintenance:      36
+Protocol:         35
+Administrative:   63
+
+
+Total Droids Required   159
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1600     Scout        Trooper       astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        26
+Maintenance:      36
+Protocol:         35
+Administrative:   63
+
+
+Total Droids Required   160
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1610     Sel          Maa           protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        26
+Maintenance:      36
+Protocol:         36
+Administrative:   63
+
+
+Total Droids Required   161
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1620     Sergeant     Fox           astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        27
+Maintenance:      36
+Protocol:         36
+Administrative:   63
+
+
+Total Droids Required   162
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1630     Shada        D'ukal        administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        27
+Maintenance:      36
+Protocol:         36
+Administrative:   64
+
+
+Total Droids Required   163
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1640     Shayl        Le'tah        maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        27
+Maintenance:      37
+Protocol:         36
+Administrative:   64
+
+
+Total Droids Required   164
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1650     Sheltay      Retrac        administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        27
+Maintenance:      37
+Protocol:         36
+Administrative:   65
+
+
+Total Droids Required   165
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1660     Shmi         Skywalker     astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        28
+Maintenance:      37
+Protocol:         36
+Administrative:   65
+
+
+Total Droids Required   166
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1670     Sio          Bibble        astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        29
+Maintenance:      37
+Protocol:         36
+Administrative:   65
+
+
+Total Droids Required   167
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1680     Chancellor   Finis         maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        29
+Maintenance:      38
+Protocol:         36
+Administrative:   65
+
+
+Total Droids Required   168
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1690     Tarados      Gon           protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        29
+Maintenance:      38
+Protocol:         37
+Administrative:   65
+
+
+Total Droids Required   169
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1700     Tas          Kee           protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        29
+Maintenance:      38
+Protocol:         38
+Administrative:   65
+
+
+Total Droids Required   170
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1710     Tessek       noLastName    astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        30
+Maintenance:      38
+Protocol:         38
+Administrative:   65
+
+
+Total Droids Required   171
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1720     Tundra       Dowmeia       administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        30
+Maintenance:      38
+Protocol:         38
+Administrative:   66
+
+
+Total Droids Required   172
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1730     Ukchet       noLastName    protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        30
+Maintenance:      38
+Protocol:         39
+Administrative:   66
+
+
+Total Droids Required   173
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1740     Uutkik       noLastName    administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        30
+Maintenance:      38
+Protocol:         39
+Administrative:   67
+
+
+Total Droids Required   174
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1750     Vizam        noLastName    administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        30
+Maintenance:      38
+Protocol:         39
+Administrative:   68
+
+
+Total Droids Required   175
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1760     Watto        noLastName    maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        30
+Maintenance:      39
+Protocol:         39
+Administrative:   68
+
+
+Total Droids Required   176
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1770     Wedge        Antillies     administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        30
+Maintenance:      39
+Protocol:         39
+Administrative:   69
+
+
+Total Droids Required   177
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1780     Whie         Malreaux      astromech       R2-D2   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        31
+Maintenance:      39
+Protocol:         39
+Administrative:   69
+
+
+Total Droids Required   178
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1790     Yarna        Gargan        administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        31
+Maintenance:      39
+Protocol:         39
+Administrative:   70
+
+
+Total Droids Required   179
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1800     Yerka        Mig           administrative  ET-74   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        31
+Maintenance:      39
+Protocol:         39
+Administrative:   71
+
+
+Total Droids Required   180
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1810     Yoda         noLastName    maintenance     EB-89   
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        31
+Maintenance:      40
+Protocol:         39
+Administrative:   71
+
+
+Total Droids Required   181
+Number   First Name   Last Name     Droid Type      Model   
+------------------------------------------------------------
+1820     Zaalbar      noLastName    protocol        SA-5    
+*********************
+Assigned Droid Count 
+*********************
+Astromech:        31
+Maintenance:      40
+Protocol:         40
+Administrative:   71
+
+
+Total Droids Required   182

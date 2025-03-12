@@ -1,0 +1,16 @@
+Symbol: Triangle  Size: 11  Character: 'B'
+    1234567890123456789012
+
+ 1            BB
+ 2           B  B
+ 3          B    B
+ 4         B      B
+ 5        B        B
+ 6       B          B
+ 7      B            B
+ 8     B              B
+ 9    B                B
+10   B                  B
+11  BBBBBBBBBBBBBBBBBBBBBB
+
+    1234567890123456789012

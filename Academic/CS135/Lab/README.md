@@ -1,0 +1,14 @@
+# CS 135 Lab
+- **Lab 1**: Quadratic Equation
+- **Lab 2**: Converts Fahrenheit into other measurements of energy
+- **Lab 3**: Calculate Radius, Circumference, Volume, and Density
+- **Lab 4**: Simple Arithmetic Calculator
+- **Lab 5**: CPU Rock, Paper, Scissors
+- **Lab 6**: Calculates Max, Min, Sum, Average and Range from a list
+- **Lab 7**: Generate a Triangle
+- **Lab 8**: Exponential Function
+- **Lab 9**: Fibonacci Numbers
+- **Lab 10**: Battle Royale Simulator
+- **Lab 11**: Radio Station using a struct
+- **Lab 12**: Basketball Play-by-Play
+- **Lab 13**: Refactored Lab 12 using a struct

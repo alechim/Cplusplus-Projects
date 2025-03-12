@@ -1,0 +1,63 @@
+Symbol: Figure Eight  Size: 58  Character: 'M'
+    1234567890123456789012345678901234567890123456789012345678
+
+ 1   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+ 2  M                                                        M
+ 3  M                                                        M
+ 4  M                                                        M
+ 5  M                                                        M
+ 6  M                                                        M
+ 7  M                                                        M
+ 8  M                                                        M
+ 9  M                                                        M
+10  M                                                        M
+11  M                                                        M
+12  M                                                        M
+13  M                                                        M
+14  M                                                        M
+15  M                                                        M
+16  M                                                        M
+17  M                                                        M
+18  M                                                        M
+19  M                                                        M
+20  M                                                        M
+21  M                                                        M
+22  M                                                        M
+23  M                                                        M
+24  M                                                        M
+25  M                                                        M
+26  M                                                        M
+27  M                                                        M
+28  M                                                        M
+29   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+30  M                                                        M
+31  M                                                        M
+32  M                                                        M
+33  M                                                        M
+34  M                                                        M
+35  M                                                        M
+36  M                                                        M
+37  M                                                        M
+38  M                                                        M
+39  M                                                        M
+40  M                                                        M
+41  M                                                        M
+42  M                                                        M
+43  M                                                        M
+44  M                                                        M
+45  M                                                        M
+46  M                                                        M
+47  M                                                        M
+48  M                                                        M
+49  M                                                        M
+50  M                                                        M
+51  M                                                        M
+52  M                                                        M
+53  M                                                        M
+54  M                                                        M
+55  M                                                        M
+56  M                                                        M
+57  M                                                        M
+58   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+    1234567890123456789012345678901234567890123456789012345678

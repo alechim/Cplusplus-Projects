@@ -1,0 +1,74 @@
+KBAQ
+89.5
+Classical
+Mozart - Symphony No. 40
+
+KUPD
+97.9
+Rock
+Metallica - Enter Sandman
+
+KMLE
+108.0
+Country
+Luke Bryan - Country Girl
+
+KESZ
+99.9
+Adult Contemporary
+Adele - Hello
+
+KJZZ
+91.5
+Jazz
+Miles Davis - So What
+
+KSLX
+100.7
+Classic Rock
+Led Zeppelin - Stairway to Heaven
+
+KDKB
+93.3
+Alternative
+Nirvana - Smells Like Teen Spirit
+
+KMXP
+96.9
+Pop
+Taylor Swift - Blank Space
+
+KDUS
+1060.0
+Sports
+Live NFL Coverage
+
+KTAR
+92.3
+News
+Morning News Report
+
+KYOT
+95.5
+Smooth Jazz
+Kenny G - Songbird
+
+KNIX
+102.5
+Country
+Garth Brooks - Friends in Low Places
+
+KOOL
+94.5
+Oldies
+The Beatles - Hey Jude
+
+KBBC
+101.5
+Hip Hop
+Drake - Hotline Bling
+
+KZZP
+104.7
+Top 40
+Ariana Grande - Thank U, Next

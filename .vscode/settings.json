@@ -6,6 +6,8 @@
         "iomanip": "cpp",
         "string": "cpp",
         "cmath": "cpp",
-        "string_view": "cpp"
+        "string_view": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp"
     }
 }

@@ -1,0 +1,11 @@
+# CS 135 Assignments
+- **Assignment 1**: Displaying Initials
+- **Assignment 2**: Calculate Surface Area and Volume of a Circle
+- **Assignment 3**: Calculate the Size of a Super Laser
+- **Assignment 4**: Calculate Dimensions of Star Shapes
+- **Assignment 5**: Can-cell Game against a simple computer
+- **Assignment 6**: Distribute Droids based on provided input file
+- **Assignment 7**: Password Guesser Game
+- **Assignment 8**: Create Figure Eight, Triangle, and Slash Shapes
+- **Assignment 9**: Display Targets Hit and Missed of Storm Troopers
+- **Assignment 10**: Colony Builder Game
