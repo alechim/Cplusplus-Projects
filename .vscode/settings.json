@@ -8,6 +8,10 @@
         "cmath": "cpp",
         "string_view": "cpp",
         "fstream": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "sstream": "cpp",
+        "random": "cpp",
+        "numeric": "cpp",
+        "atomic": "cpp"
     }
 }
