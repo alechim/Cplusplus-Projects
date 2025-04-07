@@ -12,6 +12,8 @@
         "sstream": "cpp",
         "random": "cpp",
         "numeric": "cpp",
-        "atomic": "cpp"
+        "atomic": "cpp",
+        "istream": "cpp",
+        "variant": "cpp"
     }
 }

@@ -5,8 +5,8 @@
 using namespace std;
 
 // ***Function Prototypes***
-double mean(double num[]);
-double standDeviation(double num[], double mean);
+double mean(double num[5]);
+double standDeviation(double num[5], double mean);
 
 int main()
 {
@@ -41,7 +41,7 @@ double mean(double num[5])
     return ((num[0] + num[1] + num[2] + num[3] + num[4]) / 5.0);
 }
 
-double standDeviation(double num[], double mean)
+double standDeviation(double num[5], double mean)
 {
     double numerator = 0.0;
     for(int i = 0; i < 5; i++)

@@ -1,0 +1,23 @@
+# Chapter 8 Exercises
+- **Question 1**: Array Manipulation
+- **Question 2**: Find the First Occurence of Smallest Element in an Array
+- **Question 3**: Find the Last Occurrence of Largest Element in an Array
+- **Question 4**: Processing Test Scores
+- **Question 5**: Uppercase an Entire Character Array
+- **Question 6**: Grade T/F Quizzes
+- **Question 7**: Determine Local Election Candidate Winner
+- **Question 8**: 1-D and 2-D Array Manipulation
+- **Question 9**: 2-D Array Monthly Temperatures
+- **Question 10**: Refactored Exercise 6-12 (Standard Deviation and Mean Calculator)
+- **Question 11**: Adding Large Integers
+- **Question 12**: Analyzing Runner Data using Parallel Arrays
+- **Question 13**: Calculate Average Scores and Grades with 3 Parallel Arrays
+- **Question 14**: Selection Sort Algorithm + Array Sum Pairs
+- **Question 16**: Pick 5 Lottery with Sequential Search
+- **Question 17**: Compute Employee Weekly Pay and Average Salary + Data Manipulation
+- **Question 18**: Randomly Generated Memory Game
+- **Question 19**: Airplane Seating Assignment
+- **Question 20**: Refactored Example 8-7
+- **Question 21**: Determine Prime Numbers, Prime Factors, and Composite Numbers
+- **Question 23**: Magic Square 3x3 Array 
+- **Question 24**: 20 x 20 Board Neighbor Peaks
