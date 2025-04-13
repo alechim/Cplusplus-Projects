@@ -14,6 +14,9 @@
         "numeric": "cpp",
         "atomic": "cpp",
         "istream": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "array": "cpp",
+        "algorithm": "cpp",
+        "format": "cpp"
     }
 }

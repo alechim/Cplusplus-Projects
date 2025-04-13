@@ -22,7 +22,7 @@ int main()
     int droneCount = 0;
     // 0: admin, 1: main, 2: proto, 3: astro
     int count[4] = {0, 0, 0, 0};
-    int value = rand() % 4; // random number limited in range from 0-4
+    int value = rand() % 4; // random number limited in range from 0-3
     string inFile = "c.txt";
     string outFile = "out.txt";
     ifstream iFile;

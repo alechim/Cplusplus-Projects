@@ -1,0 +1,10 @@
+Doe 35 15.50
+Smith 40 18.75
+Johnson 28 20.00
+Davis 32 16.25
+Brown 25 14.00
+Wilson 38 19.50
+Martinez 30 17.00
+Garcia 36 18.00
+Anderson 29 15.75
+Taylor 33 16.50

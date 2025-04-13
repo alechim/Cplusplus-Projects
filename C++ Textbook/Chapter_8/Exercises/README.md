@@ -1,4 +1,5 @@
 # Chapter 8 Exercises
+
 - **Question 1**: Array Manipulation
 - **Question 2**: Find the First Occurence of Smallest Element in an Array
 - **Question 3**: Find the Last Occurrence of Largest Element in an Array
@@ -19,5 +20,5 @@
 - **Question 19**: Airplane Seating Assignment
 - **Question 20**: Refactored Example 8-7
 - **Question 21**: Determine Prime Numbers, Prime Factors, and Composite Numbers
-- **Question 23**: Magic Square 3x3 Array 
+- **Question 23**: Magic Square 3x3 Array
 - **Question 24**: 20 x 20 Board Neighbor Peaks
