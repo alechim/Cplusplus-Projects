@@ -1,0 +1,7 @@
+The quick brown fox jumps over the lazy dog. 
+HELLO WORLD! This is a TEST file.
+Programming in C can be both challenging and fun.
+Structures help us organize data in meaningful ways.
+UPPERCASE letters are EASY to spot.
+There are twenty six letters in the English alphabet.
+COUNTING things is a FUNDAMENTAL programming skill!

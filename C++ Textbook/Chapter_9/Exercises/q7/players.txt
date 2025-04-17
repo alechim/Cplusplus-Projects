@@ -1,0 +1,10 @@
+Tom Brady QB 541 30 85124 0 756
+Patrick Mahomes QB 192 3 21893 0 1740
+Christian McCaffrey RB 67 390 59 3487 7272
+Derrick Henry RB 85 97 0 1244 8335
+Justin Jefferson WR 30 603 0 7681 129
+Tyreek Hill WR 35 624 0 8798 747
+Travis Kelce TE 73 814 0 10344 127
+George Kittle TE 40 395 0 5082 22
+Aaron Donald DL 0 0 0 0 0
+T.J. Watt LB 5 0 0 0 78

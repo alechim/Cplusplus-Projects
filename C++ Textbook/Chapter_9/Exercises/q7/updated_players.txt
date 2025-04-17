@@ -1,0 +1,99 @@
++==============================+
+| Player's Name:   Tom Brady
+| Position:        QB
+| Touchdowns:      541
+| Catches:         30
+| Passing Yards:   85124
+| Receiving Yards: 0
+| Rushing Yards:   756
++==============================+
+
++==============================+
+| Player's Name:   Patrick Mahomes
+| Position:        QB
+| Touchdowns:      192
+| Catches:         3
+| Passing Yards:   21893
+| Receiving Yards: 0
+| Rushing Yards:   1740
++==============================+
+
++==============================+
+| Player's Name:   Christian McCaffrey
+| Position:        RB
+| Touchdowns:      67
+| Catches:         390
+| Passing Yards:   59
+| Receiving Yards: 3487
+| Rushing Yards:   7272
++==============================+
+
++==============================+
+| Player's Name:   Derrick Henry
+| Position:        RB
+| Touchdowns:      85
+| Catches:         97
+| Passing Yards:   0
+| Receiving Yards: 1244
+| Rushing Yards:   8335
++==============================+
+
++==============================+
+| Player's Name:   Justin Jefferson
+| Position:        WR
+| Touchdowns:      30
+| Catches:         603
+| Passing Yards:   0
+| Receiving Yards: 7681
+| Rushing Yards:   129
++==============================+
+
++==============================+
+| Player's Name:   Tyreek Hill
+| Position:        WR
+| Touchdowns:      35
+| Catches:         624
+| Passing Yards:   0
+| Receiving Yards: 8798
+| Rushing Yards:   747
++==============================+
+
++==============================+
+| Player's Name:   Travis Kelce
+| Position:        TE
+| Touchdowns:      73
+| Catches:         814
+| Passing Yards:   0
+| Receiving Yards: 10344
+| Rushing Yards:   127
++==============================+
+
++==============================+
+| Player's Name:   George Kittle
+| Position:        TE
+| Touchdowns:      40
+| Catches:         395
+| Passing Yards:   0
+| Receiving Yards: 5082
+| Rushing Yards:   22
++==============================+
+
++==============================+
+| Player's Name:   Aaron Donald
+| Position:        DL
+| Touchdowns:      0
+| Catches:         0
+| Passing Yards:   0
+| Receiving Yards: 0
+| Rushing Yards:   0
++==============================+
+
++==============================+
+| Player's Name:   T.J. Watt
+| Position:        LB
+| Touchdowns:      7
+| Catches:         0
+| Passing Yards:   0
+| Receiving Yards: 0
+| Rushing Yards:   78
++==============================+
