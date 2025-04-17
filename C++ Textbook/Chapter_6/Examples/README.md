@@ -1,4 +1,5 @@
 # Chapter 6 Examples
+
 - **Example A**: Largest of Three Numbers
 - **Example B**: Global Variables
 - **Example C**: Fill a Swimming Pool

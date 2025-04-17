@@ -1,4 +1,5 @@
 # Chapter 7 Exercises
+
 - **Question 1**: Enumeration Triangle Shape
 - **Question 2**: Refactored Exercise 4-16
 - **Question 3**: Refactored Example 7-B

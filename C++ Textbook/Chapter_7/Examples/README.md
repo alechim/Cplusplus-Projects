@@ -1,6 +1,7 @@
 # Chapter 7 Examples
-- **Example A**: Rock, Paper, Scissors 
-- **Example B**: Pig Latin Translator 
+
+- **Example A**: Rock, Paper, Scissors
+- **Example B**: Pig Latin Translator
 - **Example 13**: String Operations
 - **Example 14**: String Functions 1 (`clear`, `empty`, `length`, and `size`)
 - **Example 15**: String Functions 2 (`find`)

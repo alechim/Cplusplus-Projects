@@ -1,4 +1,5 @@
 # Chapter 2 Examples
+
 - **Example 4**: Predefined Functions
 - **Example 7**: Peek and Putback Functions
 - **Example 9**: Input Failure and Clear Function

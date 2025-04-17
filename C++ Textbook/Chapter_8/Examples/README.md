@@ -1,4 +1,5 @@
-# Chapter 8 Exercises
+# Chapter 8 Examples
+
 - **Example A**: Code Detection
 - **Example B**: Text Processing
 - **Example 6**: Array Processing Functions

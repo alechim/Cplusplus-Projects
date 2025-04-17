@@ -1,4 +1,5 @@
 # Chapter 4 Examples
+
 - **Example A**: Comparing Floating-Point Numbers
 - **Example B**: Comparing Numbers and Output Largest
 - **Example 3**: Credit Card Penalty

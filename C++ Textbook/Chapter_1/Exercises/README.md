@@ -1,4 +1,5 @@
 # Chapter 1 Exercises
+
 - **Question 13**: Weighted Average of Test Scores
 - **Question 14**: Change to Pennies
 - **Question 15**: Calculate Pizza Price per Square Inch

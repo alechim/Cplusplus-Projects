@@ -1,4 +1,5 @@
 # Chapter 2 Exercises
+
 - **Question 1**: Simple Output Message
 - **Question 2**: C++ Display Message
 - **Question 3**: Simple Integer Average Program

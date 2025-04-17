@@ -1,4 +1,5 @@
 # Chapter 5 Exercises
+
 - **Question 1**: Sum of Individual Digits
 - **Question 2**: Approximate PI Calculation
 - **Question 3**: Refactored Telephone Digits
