@@ -3,8 +3,8 @@
 
 // Class Function Definitions
 /**
- * integerManipulation::setNum: 
- * @param long long n - 
+ * integerManipulation::setNum: Updates the variable of the class with the passed parameter
+ * @param long long n - The variable to update num in the class object
  */
 void integerManipulation::setNum(long long n)
 {
@@ -12,8 +12,8 @@ void integerManipulation::setNum(long long n)
 }
 
 /**
- * integerManipulation::getNum: 
- * @return long long - 
+ * integerManipulation::getNum: Returns the variable num of the class
+ * @return long long - the num of the class object
  */
 long long integerManipulation::getNum()
 {
@@ -21,7 +21,7 @@ long long integerManipulation::getNum()
 }
 
 /**
- * integerManipulation::reverseNum: 
+ * integerManipulation::reverseNum: Reverses the digit of the num in the class
  */
 void integerManipulation::reverseNum()
 {
@@ -35,7 +35,7 @@ void integerManipulation::reverseNum()
 }
 
 /**
- * integerManipulation::classifyDigits
+ * integerManipulation::classifyDigits: Determines the evens, odds, and zeros digits of the num in the class
  */
 void integerManipulation::classifyDigits()
 {
@@ -58,8 +58,8 @@ void integerManipulation::classifyDigits()
 }
 
 /**
- * integerManipulation::getEvensCount: 
- * @return int - 
+ * integerManipulation::getEvensCount: Returns the variable evensCount of the class object
+ * @return int - private instance variable, evensCount
  */
 int integerManipulation::getEvensCount()
 {
@@ -67,8 +67,8 @@ int integerManipulation::getEvensCount()
 }
 
 /**
- * integerManipulation::getOddsCount: 
- * @return int - 
+ * integerManipulation::getOddsCount: Returns the variable oddsCount of the class object
+ * @return int - private instance variable, oddsCount
  */
 int integerManipulation::getOddsCount()
 {
@@ -76,8 +76,8 @@ int integerManipulation::getOddsCount()
 }
 
 /**
- * integerManipulation::getZerosCount: 
- * @return int - 
+ * integerManipulation::getZerosCount: Returns the variable zerosCount of the class object
+ * @return int - private instance variable, zerosCount
  */
 int integerManipulation::getZerosCount()
 {
@@ -85,8 +85,8 @@ int integerManipulation::getZerosCount()
 }
 
 /**
- * integerManipulation::sumDigits: 
- * @return int - 
+ * integerManipulation::sumDigits: Returns the sum of all the digits in the variable num of the class object
+ * @return int - The sum of all the digits of num
  */
 int integerManipulation::sumDigits()
 {
@@ -102,8 +102,8 @@ int integerManipulation::sumDigits()
 }
 
 /**
- * integerManipulation::integerManipulation: 
- * @param long long n - 
+ * integerManipulation::integerManipulation: Constructor with parameters
+ * @param long long n - The variable to intialize num in the class object
  */
 integerManipulation::integerManipulation(long long n)
 {

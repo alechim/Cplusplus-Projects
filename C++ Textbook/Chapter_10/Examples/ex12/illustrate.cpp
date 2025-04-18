@@ -7,7 +7,7 @@ int illustrate::count = 0;
 int illustrate::y = 0;
 
 /**
- * illustrate::print const: 
+ * illustrate::print const: Displays the variables of the class
  */
 void illustrate::print() const
 {
@@ -15,8 +15,8 @@ void illustrate::print() const
 }
 
 /**
- * illustrate::setX: 
- * @param int a - 
+ * illustrate::setX: Updates the private instance variable of the class with the passed parameter
+ * @param int a - The variable to update x in the class object
  */
 void illustrate::setX(int a)
 {
@@ -24,7 +24,7 @@ void illustrate::setX(int a)
 }
 
 /**
- * illustrate::incrementY: 
+ * illustrate::incrementY: Increments the static private class variable y
  */
 void illustrate::incrementY()
 {
@@ -32,8 +32,8 @@ void illustrate::incrementY()
 }
 
 /**
- * illustrate::illustrate: 
- * @param int a - 
+ * illustrate::illustrate: Constructor with parameters
+ * @param int a - The variable to initialize x in the class object
  */
 illustrate::illustrate(int a)
 {

@@ -6,7 +6,7 @@ using namespace std;
 
 // Class Function Definitions
 /**
- * personType::print const: 
+ * personType::print const: Displays the full name (first and last)
  */
 void personType::print() const
 {
@@ -14,9 +14,9 @@ void personType::print() const
 }
 
 /**
- * personType::setName: 
- * @param string first - 
- * @param string last - 
+ * personType::setName: Updates the private instance variables in the object
+ * @param string first - The variable to update firstName in the class
+ * @param string last - The variable to update lastName in the class
  */
 void personType::setName(string first, string last)
 {
@@ -25,8 +25,8 @@ void personType::setName(string first, string last)
 }
 
 /**
- * personType::getFirstName const: 
- * @return string - 
+ * personType::getFirstName const: Returns the firstName private variable of the class
+ * @return string - firstName
  */
 string personType::getFirstName() const
 {
@@ -34,8 +34,8 @@ string personType::getFirstName() const
 }
 
 /**
- * personType::getLastName const: 
- * @return string - 
+ * personType::getLastName const: Returns the lastName private variable of the class
+ * @return string - lastName
  */
 string personType::getLastName() const
 {
@@ -43,9 +43,9 @@ string personType::getLastName() const
 }
 
 /**
- * personType::personType: constructor
- * @param string first - 
- * @param string last - 
+ * personType::personType: Constructor with 2 parameters
+ * @param string first - The variable to initialize firstName in the class object
+ * @param string last - The variable to initialize lastName in the class object
  */
 personType::personType(string first, string last)
 {

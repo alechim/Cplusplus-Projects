@@ -6,7 +6,8 @@ using namespace std;
 
 // Class Function Definitions
 /**
- * die::die: 
+ * die::die: Default Constructor
+ * - Seeds the random number generator
  */
 die::die()
 {
@@ -15,7 +16,7 @@ die::die()
 }
 
 /**
- * die::roll: 
+ * die::roll: Generates a number between 1-6
  */
 void die::roll()
 {
@@ -23,7 +24,7 @@ void die::roll()
 }
 
 /**
- * die::getNum const: 
+ * die::getNum const: Returns the number currently stored in the dice object
  */
 int die::getNum() const
 {

@@ -5,8 +5,8 @@ using namespace std;
 
 // Class Function Definitions
 /**
- * circleType::setRadius
- * @param double r - 
+ * circleType::setRadius: Updates the private instance variable of the class with the passed parameter
+ * @param double r - The variable to update radius in the class object
  */
 void circleType::setRadius(double r)
 {
@@ -14,8 +14,8 @@ void circleType::setRadius(double r)
 }
 
 /**
- * circleType::getRadius: 
- * @return double - 
+ * circleType::getRadius: Returns the private instance variable radius of the class
+ * @return double - the radius of the circle
  */
 double circleType::getRadius()
 {
@@ -23,8 +23,8 @@ double circleType::getRadius()
 }
 
 /**
- * circleType::area: 
- * @return double - 
+ * circleType::area: Calculates the area of the circle using the radius within the class
+ * @return double - the area calculated
  */
 double circleType::area()
 {
@@ -32,8 +32,8 @@ double circleType::area()
 }
 
 /**
- * circleType::circumference: 
- * @return double - 
+ * circleType::circumference: Calculates the circumference of the circle using the radius within the class
+ * @return double - the circumference calculated
  */
 double circleType::circumference()
 {
@@ -41,8 +41,8 @@ double circleType::circumference()
 }
 
 /**
- * circleType::circleType: 
- * @param double r - 
+ * circleType::circleType: Constructor with parameters
+ * @param double r - The variable to intialize radius in the class object
  */
 circleType::circleType(double r)
 {

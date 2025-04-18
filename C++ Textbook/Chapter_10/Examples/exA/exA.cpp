@@ -24,9 +24,11 @@ int main()
     dispenserType strawberryBanana(100, 85);
     int choice = 0;         // Variable to hold the selection
 
+    // Display selection of juices and prompt user for input
     showSelection();
     cin >> choice;
 
+    // Continuously loop program until user exits
     while(choice != 9)
     {
         switch(choice)
@@ -56,7 +58,7 @@ int main()
 
 // Function Definitions
 /**
- * showSelection: 
+ * showSelection: Displays a menu of choices the user can choose from
  */
 void showSelection()
 {
@@ -69,9 +71,16 @@ void showSelection()
     cout << "9 to exit" << endl;
 }
 
+/**
+ * sellProduct: Prompts the user for price of selected and verifies if the total is enough
+ * - If total is enough, update variables. Otherwise, display message saying total is not enough
+ * - Verify there exists enough product in the dispenser
+ * @param dispenserType& product - The product to be dispensed
+ * @param cashRegister& pCounter - The cash register of the juice machine
+ */
 void sellProduct(dispenserType& product, cashRegister& pCounter)
 {
-    int amount = 0;        // Variable to hold the amount entered
+    int amount = 0;         // Variable to hold the amount entered
     int amount2 = 0;        // Variable to hold the extra amount needed
 
     // If the dispenser is not empty

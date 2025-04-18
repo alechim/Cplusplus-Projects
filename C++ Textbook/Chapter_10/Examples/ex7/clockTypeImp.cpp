@@ -5,7 +5,7 @@ using namespace std;
 
 // Class Function Definitions
 /**
- * clockType::clockType:
+ * clockType::clockType: Default Constructor
  */
 clockType::clockType()
 {
@@ -15,10 +15,10 @@ clockType::clockType()
 }
 
 /**
- * clockType::clockType:
- * @param int hours - 
- * @param int minutes - 
- * @param int seconds - 
+ * clockType::clockType: Constructor with all 3 parameters
+ * @param int hours - The hours of the clock
+ * @param int minutes - The minutes of the clock
+ * @param int seconds - The seconds of the clock
  */
 clockType::clockType(int hours, int minutes, int seconds)
 {
@@ -27,9 +27,9 @@ clockType::clockType(int hours, int minutes, int seconds)
 
 /**
  * clockType::setTime: Checks for valid values of parameters and if out of range, initializes to 0
- * @param int hours - 
- * @param int minutes - 
- * @param int seconds - 
+ * @param int hours - The hours of the clock
+ * @param int minutes - The minutes of the clock
+ * @param int seconds - The seconds of the clock
  */
 void clockType::setTime(int hours, int minutes, int seconds)
 {
@@ -39,10 +39,10 @@ void clockType::setTime(int hours, int minutes, int seconds)
 }
 
 /**
- * clockType::getTime: 
- * @param int& hours - 
- * @param int& minutes - 
- * @param int& seconds - 
+ * clockType::getTime: Returns the values of hr, min, and sec into the referenced variables passed
+ * @param int& hours - The hours of the clock
+ * @param int& minutes - The minutes of the clock
+ * @param int& seconds - The seconds of the clock
  */
 void clockType::getTime(int& hours, int& minutes, int& seconds) const
 {
@@ -52,7 +52,7 @@ void clockType::getTime(int& hours, int& minutes, int& seconds) const
 }
 
 /**
- * clockType::printTime: 
+ * clockType::printTime: Display the clock time in the format hh:mm:ss
  */
 void clockType::printTime() const
 {
@@ -62,7 +62,7 @@ void clockType::printTime() const
 }
 
 /**
- * clockType::incrementSeconds: 
+ * clockType::incrementSeconds: Increments the class instance variable sec and calls incrementMinutes when sec > 59
  */
 void clockType::incrementSeconds()
 {
@@ -75,7 +75,7 @@ void clockType::incrementSeconds()
 }
 
 /**
- * clockType::incrementMinutes: 
+ * clockType::incrementMinutes: Increments the class instance variable min and calls incrementHours when min > 59
  */
 void clockType::incrementMinutes()
 {
@@ -88,7 +88,7 @@ void clockType::incrementMinutes()
 }
 
 /**
- * clockType::incrementHours: 
+ * clockType::incrementHours: Increments the class instance variable hr and resets hr to 0 when hr > 23
  */
 void clockType::incrementHours()
 {
@@ -98,8 +98,9 @@ void clockType::incrementHours()
 }
 
 /**
- * clockType::equalTime: 
- * @param const clockType& otherClock - 
+ * clockType::equalTime: Determines whether two class objects of clock are equal to each other in terms of hours, minutes and seconds
+ * @param const clockType& otherClock - The class object to be compared to
+ * @return bool - true if hr, sec, and min from both class objects are equal. Otherwise, false
  */
 bool clockType::equalTime(const clockType& otherClock) const
 {

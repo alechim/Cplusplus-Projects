@@ -17,6 +17,7 @@
         "variant": "cpp",
         "array": "cpp",
         "algorithm": "cpp",
-        "format": "cpp"
+        "format": "cpp",
+        "stdexcept": "cpp"
     }
 }

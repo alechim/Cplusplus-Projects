@@ -42,8 +42,8 @@ inventory::inventory()
 }
 
 /**
- * inventory::inventory: 
- * @param string n - 
+ * inventory::inventory: Constructor initializing only name
+ * @param string n - The name of the item
  */
 inventory::inventory(string n)
 {
@@ -54,10 +54,10 @@ inventory::inventory(string n)
 }
 
 /**
- * inventory::inventory: 
- * @param string n - 
- * @param int iNum -
- * @param double cost - 
+ * inventory::inventory: Constructor initializing name, itemNum, and price
+ * @param string n - The name of the item
+ * @param int iNum - The ID of the item
+ * @param double cost - The cost of the item
  */
 inventory::inventory(string n, int iNum, double cost)
 {
@@ -68,11 +68,11 @@ inventory::inventory(string n, int iNum, double cost)
 }
 
 /**
- * inventory::inventory: 
- * @param string n - 
- * @param int iNum -
- * @param double cost - 
- * @param int inStock - 
+ * inventory::inventory: Constructor initializing all 4 parameters
+ * @param string n - The name of the item
+ * @param int iNum - The ID of the item
+ * @param double cost - The cost of the item
+ * @param int inStock - The number of stock of the item
  */
 inventory::inventory(string n, int iNum, double cost, int inStock)
 {
