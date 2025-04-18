@@ -134,7 +134,9 @@ void count(ifstream& iFile, letterType letters[])
 }
 
 /**
- * 
+ * printResult: 
+ * @param ofstream& oFile - 
+ * @param letterType letters[] - 
  */
 void printResult(ofstream& oFile, letterType letters[])
 {
