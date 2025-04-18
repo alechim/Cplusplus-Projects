@@ -26,12 +26,18 @@ int main()
     ifstream iFile;
     ofstream oFile;
 
+    // Opens and Validates Input and Output File
     if(openFile(iFile, oFile) == 1)
         return 1;
+    
+    // Initializes the letters array and classifies each letter (capital and small)
     initialize(letters);
     count(iFile, letters);
+
+    // Save results into output file
     printResult(oFile, letters);
 
+    // Close the input and output files
     iFile.close();
     oFile.close();
 
@@ -41,7 +47,7 @@ int main()
 // Function Definitions
 /**
  * initialize: 
- * @param letterType letters[] - 
+ * @param letterType letters[] - Array of letter structures
  */
 void initialize(letterType letters[])
 {
@@ -54,10 +60,10 @@ void initialize(letterType letters[])
 }
 
 /**
- * openFile: 
- * @param ifstream& iFile - 
- * @param ofstream& oFile - 
- * @return int - 
+ * openFile: Opens both the input and output files and verifies if the input file is opened
+ * @param ifstream& iFile - Reference to the input file stream
+ * @param ofstream& oFile - Reference to the output file stream
+ * @return int - 0: if input file is read, 1: if input file is not read
  */
 int openFile(ifstream& iFile, ofstream& oFile)
 {
@@ -111,9 +117,10 @@ int openFile(ifstream& iFile, ofstream& oFile)
 }
 
 /**
- * count: 
- * @param ifstream& iFile - 
- * @param letterType letters - 
+ * count: Classifies and increments each detection of a letter as well as calculates the percentage of its usage
+ *        and stores the data into the letters array
+ * @param ifstream& iFile - Reference to the input file stream
+ * @param letterType letters - Array of letter structures
  */
 void count(ifstream& iFile, letterType letters[])
 {
@@ -134,9 +141,9 @@ void count(ifstream& iFile, letterType letters[])
 }
 
 /**
- * printResult: 
- * @param ofstream& oFile - 
- * @param letterType letters[] - 
+ * printResult: Saves the letters structures array data to an output file
+ * @param ofstream& oFile - Reference to the output file stream
+ * @param letterType letters[] - Array of letter structures
  */
 void printResult(ofstream& oFile, letterType letters[])
 {

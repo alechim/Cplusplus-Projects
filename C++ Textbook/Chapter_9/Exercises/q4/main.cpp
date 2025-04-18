@@ -18,14 +18,17 @@ void printCheck(menuItemType[], int[]);
 
 int main()
 {
+    // Variables
     menuItemType menuList[8];
     int order[8] = {0, 0, 0, 0, 0, 0, 0, 0};
     char choice = ' ';
     int select = 0;
 
+    // Read data and store into menuList then displayMenu
     getData(menuList);
     showMenu(menuList);
 
+    // Prompt and Validate User Input
     do
     {
         cout << "| What would you like to order?: ";
@@ -39,6 +42,7 @@ int main()
             break;
     } while(true);
 
+    // Continuous Loop until User Exits
     do 
     {
         order[select - 1]++;
@@ -71,6 +75,8 @@ int main()
         } while(true);
     } while(true);
     cout << "+" << setw(32) << setfill('=') << "" << "+" << endl << setfill(' ');
+
+    // Displays the check based on order's placed
     printCheck(menuList, order);
 
     return 0;
@@ -78,8 +84,8 @@ int main()
 
 // Function Definitions
 /**
- * getData:
- * @param menuItemType menu[] - 
+ * getData: Reads in the templated data and stores items and price into an array of menuItems
+ * @param menuItemType menu[] - Array of menuItemType structures
  */
 void getData(menuItemType menu[])
 {
@@ -94,8 +100,8 @@ void getData(menuItemType menu[])
 }
 
 /**
- * showMenu:
- * @param menuItemType menu[] - 
+ * showMenu: Displays a formatted menu of items and their price from the menuItemType array
+ * @param menuItemType menu[] - Array of menuItemType structures
  */
 void showMenu(menuItemType menu[])
 {
@@ -109,9 +115,9 @@ void showMenu(menuItemType menu[])
 }
 
 /**
- * printCheck: 
- * @param menuItemType menu[] - 
- * @param int orders[] - 
+ * printCheck: Displays a formatted check to the user based on prior input of orders and calculates tax and amount due
+ * @param menuItemType menu[] - Array of menuItemType structures
+ * @param int orders[] - A parallel array to menuItemType that contains the number of orders for each item
  */
 void printCheck(menuItemType menu[], int orders[])
 {

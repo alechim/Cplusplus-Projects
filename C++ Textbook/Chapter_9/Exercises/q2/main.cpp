@@ -63,9 +63,9 @@ int main()
 
 // Function Definitions
 /**
- * readData: 
- * @param ifstream& iFile - 
- * @param studentType students[] - 
+ * readData: Reads student data from an input file into an array of students
+ * @param ifstream& iFile - Reference to the input file stream
+ * @param studentType students[] - Array of student structures
  */
 void readData(ifstream& iFile, studentType students[], int totalStudents)
 {
@@ -74,8 +74,8 @@ void readData(ifstream& iFile, studentType students[], int totalStudents)
 }
 
 /**
- * calculateGrade: 
- * @param studentType students[] - 
+ * calculateGrade: Classifies the letter grade of a student based on their test score within the student struct array
+ * @param studentType students[] - Array of student structures
  */
 void calculateGrade(studentType students[], int totalStudents)
 {
@@ -104,9 +104,9 @@ void calculateGrade(studentType students[], int totalStudents)
 }
 
 /**
- * findHighestScore: sequential search to find the max value
- * @param studentType students[] - 
- * @return int - 
+ * findHighestScore: Sequential search to find the max test score value from the students struct array
+ * @param studentType students[] - Array of student structures
+ * @return int - The maximum test score
  */
 int findHighestScore(studentType students[], int totalStudents)
 {
@@ -118,9 +118,9 @@ int findHighestScore(studentType students[], int totalStudents)
 }
 
 /**
- * outputStudents: 
- * @param ofstream& oFile - 
- * @param studentType students[] - 
+ * outputStudents: Saves the students data to an output file
+ * @param ofstream& oFile - Reference to the output file stream
+ * @param studentType students[] - Array of student structures
  */
 void outputStudents(ofstream& oFile, studentType students[], int totalStudents)
 {
@@ -132,10 +132,10 @@ void outputStudents(ofstream& oFile, studentType students[], int totalStudents)
 }
 
 /**
- * outputTopScorers: 
- * @param ofstream& oFile - 
- * @param studentType students[] - 
- * @param double topScore - 
+ * outputTopScorers: Saves the names of the students that have the same test score as the highest test score to an output file
+ * @param ofstream& oFile - Reference to the output file stream
+ * @param studentType students[] - Array of student structures
+ * @param double topScore - The highest test score found within the entire array
  */
 void outputTopScorers(ofstream& oFile, studentType students[], double topScore, int totalStudents)
 {

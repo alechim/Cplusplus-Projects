@@ -45,9 +45,9 @@ int main()
 
 // Function Definitions
 /**
- * promptInput: 
- * @param string& value - 
- * @param string prompt - 
+ * promptInput: Gets and validates a string input from the user
+ * @param string& value - Reference to the string variable to store the input
+ * @param string prompt - Message to display to the user
  */
 void promptInput(string& value, string prompt)
 {
@@ -67,9 +67,9 @@ void promptInput(string& value, string prompt)
 }
 
 /**
- * promptInput: 
- * @param int& value - 
- * @param string prompt - 
+ * promptInput: Gets and validates a positive integer input from the user
+ * @param int& value - Reference to the integer variable to store the input
+ * @param string prompt - Message to display to the user
  */
 void promptInput(int& value, string prompt)
 {
