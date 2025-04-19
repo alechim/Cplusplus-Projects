@@ -5,8 +5,8 @@
 // Class Function Definitions - cashRegister
 // =======================
 /**
- * cashRegister::getCurrentBalance const: 
- * @return int
+ * cashRegister::getCurrentBalance const: Returns the variable cashOnHand of the class
+ * @return int - cashOnHand of the class object
  */
 int cashRegister::getCurrentBalance() const
 {
@@ -14,8 +14,8 @@ int cashRegister::getCurrentBalance() const
 }
 
 /**
- * cashRegister::acceptAmount: 
- * @param int amountIn - 
+ * cashRegister::acceptAmount: Updates the variable cashOnHand by adding the passed parameter into it
+ * @param int amountIn - The value to be added to the instance variable cashOnHand
  */
 void cashRegister::acceptAmount(int amountIn)
 {
@@ -23,8 +23,8 @@ void cashRegister::acceptAmount(int amountIn)
 }
 
 /**
- * cashRegister::cashRegister: 
- * @param int cashIn - 
+ * cashRegister::cashRegister: Constructor with parameters
+ * @param int cashIn - The variable to intialize cashOnHand if not negative. Otherwise, intialize to 50.
  */
 cashRegister::cashRegister(int cashIn)
 {
@@ -35,8 +35,8 @@ cashRegister::cashRegister(int cashIn)
 // Class Function Definitions - dispenserType
 // =======================
 /**
- * dispenserType::getNoOfItems const:
- * @return int - 
+ * dispenserType::getNoOfItems const: Returns the instance variable numberOfItems of the class
+ * @return int - numberOfItems of the class object
  */
 int dispenserType::getNoOfItems() const
 {
@@ -44,8 +44,8 @@ int dispenserType::getNoOfItems() const
 }
 
 /**
- * dispenserType::getCost const: 
- * @return int - 
+ * dispenserType::getCost const: Returns the instance variable cost of the class
+ * @return int - cost of the class object
  */
 int dispenserType::getCost() const
 {
@@ -53,7 +53,7 @@ int dispenserType::getCost() const
 }
 
 /**
- * dispenserType::makeSale: 
+ * dispenserType::makeSale: Decrements the instance variable numberOfItems when called
  */
 void dispenserType::makeSale()
 {
@@ -61,9 +61,9 @@ void dispenserType::makeSale()
 }
 
 /**
- * dispenserType::dispenserType
- * @param int setNoOfItems - 
- * @param int setCost - 
+ * dispenserType::dispenserType: Constructor with parameters
+ * @param int setNoOfItems - The variable to intialize numberOfItems if not negative. Otherwise, intialize to 50.
+ * @param int setCost - The variable to intialize cost if not negative. Otherwise, intialize to 50.
  */
 dispenserType::dispenserType(int setNoOfItems, int setCost)
 {

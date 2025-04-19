@@ -1,8 +1,8 @@
 # Chapter 10 Exercises
 
-- **Question 1**:
-- **Question 2**:
-- **Question 3**:
+- **Question 1**: Refactored 9-2 with Class Object
+- **Question 2**: Simple productType Class Example
+- **Question 3**: Simple houseType Class Example
 - **Question 4**:
 - **Question 5**:
 - **Question 6**:
