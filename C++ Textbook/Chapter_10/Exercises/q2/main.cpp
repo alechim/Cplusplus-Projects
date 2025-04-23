@@ -1,4 +1,4 @@
-// Question 2: productType Class
+// Question 2: productType Class Program
 #include <iostream>
 #include <iomanip>
 #include "productType.h"
@@ -14,28 +14,28 @@ int main()
     productType product4(10, 8.50, 0.2);
 
     // Display Initial Product Information
-    cout << "+" << setw(29) << setfill('=') << "" << "+" << endl << setfill(' ');
-    cout << "| Initial Product Information |" << endl;
-    cout << "+" << setw(29) << setfill('=') << "" << "+" << endl << setfill(' ');
-    cout << ">" << setw(10) << "" << "Product 1" << setw(10) << "" << "<" << endl;
+    cout << "\n+===== Initial Product Information =====" << endl;
+    cout << "| Product 1" << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
     product1.print(); 
-    cout << endl;
     
-    cout << ">" << setw(10) << "" << "Product 2" << setw(10) << "" << "<" << endl;
+    cout << endl << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
+    cout << "| Product 2" << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
     product2.print();
-    cout << endl;
     
-    cout << ">" << setw(10) << "" << "Product 3" << setw(10) << "" << "<" << endl;
+    cout << endl << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
+    cout << "| Product 3" << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
     product3.print();
-    cout << endl;
     
-    cout << ">" << setw(10) << "" << "Product 4" << setw(10) << "" << "<" << endl;
+    cout << endl << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
+    cout << "| Product 4" << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
     product4.print();
-    cout << endl;
-    cout << endl;
 
     // Demonstrate setter methods
-    cout << "+" << setw(29) << setfill('=') << "" << "+" << endl << setfill(' ');
+    cout << endl << "+" << setw(29) << setfill('=') << "" << endl << setfill(' ');
     cout << "| Setting product1's information..." << endl;
     product1.set("Headphones", "HP456", "AudioTech", 25, 79.99, 0.15);
 
@@ -48,38 +48,39 @@ int main()
     cout << "| Updating prices and discounts..." << endl;
     product4.setPrice(949.99);
     product2.setDiscount(0.20);
-    cout << "+" << setw(29) << setfill('=') << "" << "+" << endl << setfill(' ');
-    cout << endl;
+    cout << "+" << setw(29) << setfill('=') << "" << endl << setfill(' ');
 
     // Display updated product information
-    cout << "+" << setw(29) << setfill('=') << "" << "+" << endl << setfill(' ');
-    cout << "| Updated Product Information |" << endl;
-    cout << "+" << setw(29) << setfill('=') << "" << "+" << endl << setfill(' ');
-    cout << ">" << setw(5) << "" << "Product 1 (after set)" << setw(5) << "" << "<" << endl;
+    cout << "\n+===== Updated Product Information =====" << endl;
+    cout << "| Product 1 (after set)" << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
     product1.print();
-    cout << endl;
     
-    cout << "> Product 2 (after updating stock and discount) <" << endl;
+    cout << endl << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
+    cout << "| Product 2 (after updating stock and discount)" << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
     product2.print();
-    cout << endl;
     
-    cout << "> Product 3 (after setting new stock) <" << endl;
+    cout << endl << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
+    cout << "| Product 3 (after setting new stock)" << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
     product3.print();
-    cout << endl;
     
-    cout << "> Product 4 (after price change) <" << endl;
+    cout << endl << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
+    cout << "| Product 4 (after price change)" << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
     product4.print();
-    cout << endl;
     
     // Calculate and display the final prices (price after discount)
-    cout << "+" << setw(31) << setfill('=') << "" << "+" << endl << setfill(' ');
+    cout << endl << "+" << setw(31) << setfill('=') << "" << "+" << endl << setfill(' ');
     cout << "| Final Prices (after Discount) |" << endl;
     cout << "+" << setw(31) << setfill('=') << "" << "+" << endl << setfill(' ');
-    cout << "| Product 1: $" << fixed << setprecision(2) << product1.getPrice() * (1 - product1.getDiscount()) << endl;
-    cout << "| Product 2: $" << fixed << setprecision(2) << product2.getPrice() * (1 - product2.getDiscount()) << endl;
-    cout << "| Product 3: $" << fixed << setprecision(2) << product3.getPrice() * (1 - product3.getDiscount()) << endl;
-    cout << "| Product 4: $" << fixed << setprecision(2) << product4.getPrice() * (1 - product4.getDiscount()) << endl;
-    cout << "+" << setw(31) << setfill('=') << "" << "+" << endl << setfill(' ');
+    cout << fixed << setprecision(2);
+    cout << "| Product 1: $" << product1.getPrice() * (1 - product1.getDiscount()) << endl;
+    cout << "| Product 2: $" << product2.getPrice() * (1 - product2.getDiscount()) << endl;
+    cout << "| Product 3: $" << product3.getPrice() * (1 - product3.getDiscount()) << endl;
+    cout << "| Product 4: $" << product4.getPrice() * (1 - product4.getDiscount()) << endl;
+    cout << "+" << setw(31) << setfill('=') << "" << endl << setfill(' ');
 
     return 0;
 }

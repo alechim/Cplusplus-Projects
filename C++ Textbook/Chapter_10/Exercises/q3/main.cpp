@@ -1,5 +1,4 @@
-// Question 3: houseType Class
-// Simple House Management Program
+// Question 3: houseType Class Program
 #include <iostream>
 #include <iomanip>
 #include "houseType.h"
@@ -13,37 +12,39 @@ int main()
     houseType house2;       // Using default constructor
     
     // Display Initial Information
-    cout << "\n===== Initial House Information =====" << endl;
-    cout << ">" << setw(10) << "" << "House 1" << setw(10) << "" << "<" << endl;
+    cout << "\n+===== Initial House Information =====" << endl;
+    cout << "| House 1" << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
     house1.print();
-    cout << endl;
     
-    cout << ">" << setw(7) << "" << "House 2 (default values)" << setw(7) << "" << "<" << endl;
+    cout << endl << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
+    cout << "| House 2 (default values)" << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
     house2.print();
-    cout << endl;
     
-    // Set values for house2
+    // Set Values for house2
     house2.set("Colonial", 4, 3, 2, 1995, 2400, 275000, 4800.0);
     
-    cout << ">" << setw(7) << "" << "House 2 (after set)" << setw(7) << "" << "<" << endl;
+    cout << endl << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
+    cout << "| House 2 (after set)" << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
     house2.print();
-    cout << endl;
     
-    // Update house1 properties
-    cout << "=========================" << endl;
-    cout << "- Updating House 1..." << endl;
+    // Update house1 Properties
+    cout << endl << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
+    cout << "| Updating House 1..." << endl;
     house1.setFinishedSquareFootage(2000);
     house1.setPrice(210000);
     house1.setTax(3900);
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
 
-    // Demonstrate individual property updates
-    cout << "===== After Updates =====" << endl;
-    // Display updated information
-    cout << ">" << setw(10) << "" << "Updated House 1" << setw(10) << "" << "<" << endl;
+    // Display Updated Information
+    cout << endl << "+===== After Updates =====" << endl;
+    cout << "| Updated House 1" << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
     house1.print();
-    cout << endl;
     
-    // Create a third house using individual setters
+    // Create a Third House using Individual Setters
     houseType house3;
     house3.setStyle("Modern");
     house3.setNumOfBedrooms(5);
@@ -54,21 +55,24 @@ int main()
     house3.setPrice(450000);
     house3.setTax(6500);
     
-    cout << "> House 3 (using individual setters) <" << endl;
+    cout << endl << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
+    cout << "| House 3 (using individual setters)" << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
     house3.print();
-    cout << endl;
     
-    // Demonstrate getters
-    cout << "===== House Information Using Getters =====" << endl;
-    cout << ">" << setw(10) << "" << "House 1 Details" << setw(10) << "" << "<" << endl;
-    cout << "Style: " << house1.getStyle() << endl;
-    cout << "Bedrooms: " << house1.getNumOfBedrooms() << endl;
-    cout << "Bathrooms: " << house1.getNumOfBathrooms() << endl;
-    cout << "Garage Capacity: " << house1.getNumOfCarsGarage() << " cars" << endl;
-    cout << "Year Built: " << house1.getYearBuilt() << endl;
-    cout << "Square Footage: " << house1.getFinishedSquareFootage() << " sq ft" << endl;
-    cout << "Price: $" << fixed << setprecision(2) << house1.getPrice() << endl;
-    cout << "Annual Tax: $" << fixed << setprecision(2) << house1.getTax() << endl;
+    // Demonstrate Getters
+    cout << endl << "+===== House Information Using Getters =====" << endl;
+    cout << "| House 1 Details" << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
+    cout << "| Style: " << house1.getStyle() << endl;
+    cout << "| Bedrooms: " << house1.getNumOfBedrooms() << endl;
+    cout << "| Bathrooms: " << house1.getNumOfBathrooms() << endl;
+    cout << "| Garage Capacity: " << house1.getNumOfCarsGarage() << " cars" << endl;
+    cout << "| Year Built: " << house1.getYearBuilt() << endl;
+    cout << "| Square Footage: " << house1.getFinishedSquareFootage() << " sq ft" << endl;
+    cout << "| Price: $" << fixed << setprecision(2) << house1.getPrice() << endl;
+    cout << "| Annual Tax: $" << fixed << setprecision(2) << house1.getTax() << endl;
+    cout << "+" << setw(31) << setfill('-') << "" << endl << setfill(' ');
     
     return 0;
 }

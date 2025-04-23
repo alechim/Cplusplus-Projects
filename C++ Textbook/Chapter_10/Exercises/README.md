@@ -1,11 +1,11 @@
 # Chapter 10 Exercises
 
 - **Question 1**: Refactored 9-2 with Class Object
-- **Question 2**: Simple productType Class Example
-- **Question 3**: Simple houseType Class Example
-- **Question 4**:
-- **Question 5**:
-- **Question 6**:
+- **Question 2**: productType Class Program
+- **Question 3**: houseType Class Program
+- **Question 4**: counterType Class Program
+- **Question 5**: Provided temporary Class Program
+- **Question 6**: Convert Roman Numerals to Integers
 - **Question 7**:
 - **Question 8**:
 - **Question 9**:
@@ -24,3 +24,12 @@
 - **Question 22**:
 - **Question 23**:
 - **Question 24**:
+
+## Usage
+
+1. Most of these programs are multi-file with a specification and classification file. I've already generated the object code file but if you wish to recompile the file use `g++ -c object_filename.cpp`.
+
+2. Depending on the amount of multi-files you would need to use for the main program, you may need to add more arguments when compiling. To compile the program use `g++ main.cpp object_filename1.o object_filename2.o ... -o main`. Afterwards, you can run the program using `.\main`.
+
+> **Note**: The usage of `g++` is the compiler I use for my C++ files, you can replace `g++` with any other compiler you use for C++ programs.
+> I also use `-o main` as a preference to run the code but you can change the executable to whatever you want.

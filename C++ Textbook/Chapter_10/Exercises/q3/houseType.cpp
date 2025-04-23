@@ -33,14 +33,16 @@ void houseType::set(string houseStyle, int bedroom, int bathroom, int garage, in
  */
 void houseType::print() const
 {
-    cout << left << setw(25) << "Style of House: " << style << endl;
-    cout << left << setw(25) << "Number of Bathrooms: " << numOfBedrooms << endl;
-    cout << left << setw(25) << "Number of Bedrooms: " << numOfBedrooms << endl;
-    cout << left << setw(25) << "Number of Car Garage: " << numOfCarsGarage << endl;
-    cout << left << setw(25) << "Year Built: " << yearBuilt << endl;
-    cout << left << setw(25) << "Finished Square Footage: " << finishedSquareFootage << endl;
-    cout << left << setw(25) << "Price of House: " << "$" << fixed << showpoint << setprecision(2) << price << endl;
-    cout << left << setw(25) << "House Tax: " << tax << endl;
+    cout << "+" << setw(32) << setfill('=') << "" << endl << setfill(' ');
+    cout << left << setw(25) << "| Style of House: " << style << endl;
+    cout << left << setw(25) << "| Number of Bathrooms: " << numOfBedrooms << endl;
+    cout << left << setw(25) << "| Number of Bedrooms: " << numOfBedrooms << endl;
+    cout << left << setw(25) << "| Number of Car Garage: " << numOfCarsGarage << endl;
+    cout << left << setw(25) << "| Year Built: " << yearBuilt << endl;
+    cout << left << setw(25) << "| Finished Square Footage: " << finishedSquareFootage << endl;
+    cout << left << setw(25) << "| Price of House: " << "$" << fixed << showpoint << setprecision(2) << price << endl;
+    cout << left << setw(25) << "| House Tax: " << tax << endl;
+    cout << "+" << setw(32) << setfill('=') << "" << endl << setfill(' ');
 }
 
 /**
