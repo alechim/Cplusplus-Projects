@@ -1,0 +1,10 @@
+Green7 has been spawned.
+Green7 equipped a Sword.
+Green7 is attacking Blue4
+Green7 took 3 damage.
+Green7 is attacking Blue4
+Green7 is attacking Blue4
+Green7 took 18 damage.
+Green7 took 18 damage.
+Green7 has reached 0 health.
+Green7 has been despawned.

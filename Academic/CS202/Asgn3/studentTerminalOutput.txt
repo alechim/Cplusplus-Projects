@@ -1,0 +1,135 @@
+/****\ GAME START /****\
+ERROR: Unknown Weapon
+************************
+There are 10 Players.
+************************
+Red3 is attacking Green9.
+**pfft**
+Green9 has taken 2 damage!
+That was super effective!
+Green9 is attacking Red1
+**FWOOSH**
+Red1 has taken 9 damage!
+Blue5 is attacking Red1
+**POW**
+Red1 has taken 18 damage!
+Red1 has reached 0 health! They can no longer battle...
+That was super effective!
+
+Red3 - {I can't believe this Red is using a Bow!}
+
+Red3 is attacking Red2.
+**pfft**
+Red2 has taken 0 damage!
+That was not very effective...
+
+Red2 - {It is better than bare fists!}
+
+Red2 is attacking Red3.
+**FWOOSH**
+Red3 has taken 1 damage!
+That was not very effective...
+
+Blue5 - {ENOUGH OF THIS CHILDISH BICKERING NOOBS!}
+
+Blue5 is attacking Red2
+**POW**
+Red2 has taken 18 damage!
+That was super effective!
+Blue5 is attacking Red3
+**POW**
+Red3 has taken 18 damage!
+That was super effective!
+Blue5 is attacking Red2
+**POW**
+Red2 has taken 18 damage!
+Red2 has reached 0 health! They can no longer battle...
+That was super effective!
+Blue5 is attacking Red3
+**POW**
+Red3 has taken 18 damage!
+Red3 has reached 0 health! They can no longer battle...
+That was super effective!
+
+Red0 - {My teammates! I AM ENRAGED!}
+
+Red0 is attacking Blue5.
+**CLANG**
+Blue5 has taken 9 damage!
+Red0 is attacking Blue5.
+**CLANG**
+Blue5 has taken 9 damage!
+
+Green9 - {Here.. I can help!}
+
+Green9 is attacking Blue5
+**FWOOSH**
+Blue5 has taken 18 damage!
+Blue5 has reached 0 health! They can no longer battle...
+That was super effective!
+
+Red0 - {I DID NOT WANT YOUR HELP!}
+
+Red0 is attacking Green9.
+**CLANG**
+Green9 has taken 18 damage!
+That was super effective!
+Red0 is attacking Green9.
+**CLANG**
+Green9 has taken 18 damage!
+Green9 has reached 0 health! They can no longer battle...
+That was super effective!
+Green7 is attacking Blue4
+**CLANG**
+Blue4 has taken 12 damage!
+That was super effective!
+Blue4 is attacking Green7
+**CLANG**
+Green7 has taken 3 damage!
+Green7 is attacking Blue4
+**CLANG**
+Blue4 has taken 12 damage!
+That was super effective!
+Green8 is attacking Blue6
+**POW**
+Blue6 has taken 12 damage!
+That was super effective!
+Blue6 is attacking Green8
+**FWOOSH**
+Green8 has taken 3 damage!
+Green8 is attacking Blue6
+**POW**
+Blue6 has taken 12 damage!
+That was super effective!
+Green7 is attacking Blue4
+**CLANG**
+Blue4 has taken 12 damage!
+Blue4 has reached 0 health! They can no longer battle...
+That was super effective!
+Green8 is attacking Blue6
+**POW**
+Blue6 has taken 12 damage!
+Blue6 has reached 0 health! They can no longer battle...
+That was super effective!
+Red0 is attacking Green7.
+**CLANG**
+Green7 has taken 18 damage!
+That was super effective!
+Red0 is attacking Green8.
+**CLANG**
+Green8 has taken 18 damage!
+That was super effective!
+Red0 is attacking Green7.
+**CLANG**
+Green7 has taken 18 damage!
+Green7 has reached 0 health! They can no longer battle...
+That was super effective!
+Red0 is attacking Green8.
+**CLANG**
+Green8 has taken 18 damage!
+Green8 has reached 0 health! They can no longer battle...
+That was super effective!
+
+Red0 - {I AM THE CHAMPION!}
+
+/****\ GAME OVER /****\

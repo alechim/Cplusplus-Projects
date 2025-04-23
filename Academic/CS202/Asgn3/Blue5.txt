@@ -1,0 +1,12 @@
+Blue5 has been spawned.
+Blue5 equipped a Staff.
+Blue5 is attacking Red1
+Blue5 is attacking Red2
+Blue5 is attacking Red3
+Blue5 is attacking Red2
+Blue5 is attacking Red3
+Blue5 took 9 damage.
+Blue5 took 9 damage.
+Blue5 took 18 damage.
+Blue5 has reached 0 health.
+Blue5 has been despawned.

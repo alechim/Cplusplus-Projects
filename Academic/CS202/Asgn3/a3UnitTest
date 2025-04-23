@@ -1,0 +1,185 @@
+
+#!/bin/bash
+# CS 202, Assignment #3 Fall 2020
+
+# Courtesy of Derek
+
+# ---------------------------------------------------------
+# Check for executable ./Main
+if [ -z $1]; then
+	echo "Error, must provide executable file name."
+	exit
+fi
+
+if [ ! -e $1 ] || [ ! -x $1 ]; then
+	echo "Error, unable to find $1 executable file."
+	exit
+fi
+
+# ===================================================================
+#  Define script variables and function
+
+bolded=`tput bold`
+normal=`tput sgr0`
+underline=`tput smul`
+red=`tput setaf 1`
+green=`tput setaf 2`
+white=`tput setaf 7`
+italic=`tput sitm`
+
+pause() {
+	if [ "$1" = "skip" ]; then
+		echo
+	else
+		echo
+		echo -n "Press return to continue"
+		read
+		clear
+	fi
+}
+
+# ---------------------------------------------------------
+# Display initial page
+
+clear
+echo
+echo
+echo ${bolded}Assignment 3 - Error Testing Utility${normal}
+echo
+echo
+echo
+echo "All tests and cases require exact output for 100%."
+echo
+echo "All tests and cases passing does not guarantee 100%."
+echo
+echo "Check your output manually regardless,"
+echo "this is an indicator of success, not a guarantee!"
+echo
+echo "Happy Programming,"
+echo "Derek"
+echo
+pause $2
+
+# ---------------------------------------------------------
+# Begin tests.
+# ---------------------------------
+
+# TEST TERMINAL OUTPUT
+echo "------------------------------------"
+echo "${bolded}${underline}Test #1 - Terminal Output${normal}"
+echo
+echo ${bolded}$1${normal}
+./$1> studentTerminalOutput.txt << EOF
+EOF
+
+if `diff -b -B studentTerminalOutput.txt terminalOutputMaster.txt >/dev/null` ; then
+	echo "${bolded}Test #1 Program Output ${green}Successful${normal}"
+else
+	diff -b -B studentTerminalOutput.txt terminalOutputMaster.txt
+	echo "${bolded}Test #1 Program Output ${red}Fail${normal}"
+fi
+echo
+
+# TEST RED FILE OUTPUTS
+echo "------------------------------------"
+echo "${bolded}${underline}Test #2 - Red File Outputs${normal}"
+echo
+echo "               ${white}Red0.txt${normal}               "
+if `diff -b -B Red0.txt MasterFiles/Red0Master.txt >/dev/null` ; then
+	echo "${bolded}Test #2a - Red0 File Output ${green}Successful${normal}"
+else
+	diff -b -B Red0.txt MasterFiles/Red0Master.txt
+	echo "${bolded}Test #2a - Red0 File Output ${red}Fail${normal}"
+fi
+echo
+
+echo "               ${white}Red1.txt${normal}               "
+if `diff -b -B Red1.txt MasterFiles/Red1Master.txt >/dev/null` ; then
+	echo "${bolded}Test #2b - Red1 File Output ${green}Successful${normal}"
+else
+	diff -b -B Red1.txt MasterFiles/Red1Master.txt
+	echo "${bolded}Test #2b - Red1 File Output ${red}Fail${normal}"
+fi
+echo
+
+echo "               ${white}Red2.txt${normal}               "
+if `diff -b -B Red2.txt MasterFiles/Red2Master.txt >/dev/null` ; then
+	echo "${bolded}Test #2c - Red2 File Output ${green}Successful${normal}"
+else
+	diff -b -B Red2.txt MasterFiles/Red2Master.txt
+	echo "${bolded}Test #2c - Red2 File Output ${red}Fail${normal}"
+fi
+echo
+
+echo "               ${white}Red3.txt${normal}               "
+if `diff -b -B Red3.txt MasterFiles/Red3Master.txt >/dev/null` ; then
+	echo "${bolded}Test #2d - Red3 File Output ${green}Successful${normal}"
+else
+	diff -b -B Red3.txt MasterFiles/Red3Master.txt
+	echo "${bolded}Test #2d - Red3 File Output ${red}Fail${normal}"
+fi
+echo
+
+
+# TEST BLUE FILE OUTPUTS
+echo "------------------------------------"
+echo "${bolded}${underline}Test #3 - Blue File Outputs${normal}"
+echo
+echo "               ${white}Blue4.txt${normal}               "
+if `diff -b -B Blue4.txt MasterFiles/Blue4Master.txt >/dev/null` ; then
+	echo "${bolded}Test #3a - Blue4 File Output ${green}Successful${normal}"
+else
+	diff -b -B Blue4.txt MasterFiles/Blue4Master.txt
+	echo "${bolded}Test #3a - Blue4 File Output ${red}Fail${normal}"
+fi
+echo
+
+echo "               ${white}Blue5.txt${normal}               "
+if `diff -b -B Blue5.txt MasterFiles/Blue5Master.txt >/dev/null` ; then
+	echo "${bolded}Test #3b - Blue5 File Output ${green}Successful${normal}"
+else
+	diff -b -B Blue5.txt MasterFiles/Blue5Master.txt
+	echo "${bolded}Test #3b - Blue5 File Output ${red}Fail${normal}"
+fi
+echo
+
+echo "               ${white}Blue6.txt${normal}               "
+if `diff -b -B Blue6.txt MasterFiles/Blue6Master.txt >/dev/null` ; then
+	echo "${bolded}Test #3c - Blue6 File Output ${green}Successful${normal}"
+else
+	diff -b -B Blue6.txt MasterFiles/Blue6Master.txt
+	echo "${bolded}Test #3c - Blue6 File Output ${red}Fail${normal}"
+fi
+echo
+
+
+# TEST GREEN FILE OUTPUTS
+echo "------------------------------------"
+echo "${bolded}${underline}Test #4 - Green File Outputs${normal}"
+echo
+echo "               ${white}Green7.txt${normal}               "
+if `diff -b -B Green7.txt MasterFiles/Green7Master.txt >/dev/null` ; then
+	echo "${bolded}Test #4a - Green7 File Output ${green}Successful${normal}"
+else
+	diff -b -B Green7.txt MasterFiles/Green7Master.txt
+	echo "${bolded}Test #4a - Blue4 File Output ${red}Fail${normal}"
+fi
+echo
+
+echo "               ${white}Green8.txt${normal}               "
+if `diff -b -B Green8.txt MasterFiles/Green8Master.txt >/dev/null` ; then
+	echo "${bolded}Test #4b - Green8 File Output ${green}Successful${normal}"
+else
+	diff -b -B Green8.txt MasterFiles/Green8Master.txt
+	echo "${bolded}Test #4b - Green8 File Output ${red}Fail${normal}"
+fi
+echo
+
+echo "               ${white}Green9.txt${normal}               "
+if `diff -b -B Green9.txt MasterFiles/Green9Master.txt >/dev/null` ; then
+	echo "${bolded}Test #4c - Green9 File Output ${green}Successful${normal}"
+else
+	diff -b -B Green9.txt MasterFiles/Green9Master.txt
+	echo "${bolded}Test #4c - Green9 File Output ${red}Fail${normal}"
+fi
+echo
