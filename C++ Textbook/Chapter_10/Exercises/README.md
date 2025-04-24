@@ -6,11 +6,9 @@
 - **Question 4**: counterType Class Program
 - **Question 5**: Provided temporary Class Program
 - **Question 6**: Convert Roman Numerals to Integers
-- **Question 7**:
-- **Question 8**:
-- **Question 9**:
-- **Question 10**:
-- **Question 11**:
+- **Question 7**: dayType Class Program
+- **Question 9**: Refactored clockType Class Program with Inline Functions
+- **Question 11**: Refactored personType Class Program
 - **Question 12**:
 - **Question 13**:
 - **Question 14**:
