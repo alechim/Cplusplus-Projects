@@ -1,6 +1,6 @@
 # Chapter 10 Exercises
 
-- **Question 1**: Refactored 9-2 with Class Object
+- **Question 1**: Refactored Exercise 9-2 with Class Object
 - **Question 2**: productType Class Program
 - **Question 3**: houseType Class Program
 - **Question 4**: counterType Class Program
@@ -12,9 +12,9 @@
 - **Question 12**: bookType Class Program
 - **Question 13**: memberType Class Program
 - **Question 14**: Simulated Bookstore using bookType and memberType Classes
-- **Question 15**:
-- **Question 16**:
-- **Question 17**:
+- **Question 15**: Refactored Example 10-A
+- **Question 16**: swimmingPool Class Program
+- **Question 17**: 2-Player Tic-Tac-Toe
 - **Question 18**:
 - **Question 19**:
 - **Question 20**:
