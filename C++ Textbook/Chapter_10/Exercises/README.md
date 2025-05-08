@@ -15,9 +15,9 @@
 - **Question 15**: Refactored Example 10-A
 - **Question 16**: swimmingPool Class Program
 - **Question 17**: 2-Player Tic-Tac-Toe
-- **Question 18**:
-- **Question 19**:
-- **Question 20**:
+- **Question 18**: lineType Class Program
+- **Question 19**: Calculate Retirement Funds in Account
+- **Question 20**: stockType Class Program
 - **Question 21**:
 - **Question 22**:
 - **Question 23**:
