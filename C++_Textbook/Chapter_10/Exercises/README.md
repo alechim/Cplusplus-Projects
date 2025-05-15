@@ -18,10 +18,9 @@
 - **Question 18**: lineType Class Program
 - **Question 19**: Calculate Retirement Funds in Account
 - **Question 20**: stockType Class Program
-- **Question 21**:
-- **Question 22**:
-- **Question 23**:
-- **Question 24**:
+- **Question 21**: bankAccount Class Program
+- **Question 22**: Refactored Example 10-9
+- **Question 24**: Refactored Example 10-11
 
 ## Usage
 

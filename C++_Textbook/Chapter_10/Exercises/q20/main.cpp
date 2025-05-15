@@ -1,3 +1,4 @@
+// Question 20: stockType Class Program
 #include <iostream>
 #include <iomanip>
 #include "stockType.h"
