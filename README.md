@@ -4,7 +4,7 @@ A collection of C++ projects demonstrating core programming concepts, data struc
 
 ## About
 
-This repository contains various C++ implementations and exercises from **C++ Programming: From Problem Analysis to Program Design** by D.S. Malik ([Amazon link](https://www.amazon.com/Programming-Problem-Analysis-Program-Design/dp/1337102083)), with plans to add more academic projects as I locate and refactor them.
+This repository contains various C++ implementations and exercises from **C++ Programming: From Problem Analysis to Program Design** by D.S. Malik ([Amazon link](https://www.amazon.com/Programming-Problem-Analysis-Program-Design/dp/1337102083)), and some C++ academic projects with plans to add more academic projects as I locate and refactor them.
 
 ## Status
 
